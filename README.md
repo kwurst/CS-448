@@ -1,4 +1,4 @@
-# CS-443 Software Development Capstone
+# CS-448 Software Development Capstone
 > *Development of a significant software system, following appropriate project and team management techniques. Requirements, design, implementation, quality assurance, professional, social and ethical issues.*
 
 **Karl R. Wurst**
