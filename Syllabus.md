@@ -22,10 +22,20 @@ See [http://sharepoint.worcester.edu/faculty/kwurst/]() for contact information 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
 
-1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.2.	**Internet Access:** You will need Internet access for access to:    1.	**GitLab** – We will use Git:Lab to host our projects.    2.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to comm3nicate, and you will be subscribing to OpenMRS mailing lists.    3.	**Wordpress or other blogging platform** – You will be keeping a blog about your learning in this course.    4.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
-## Where Does This Course Lead?* Your professional career
-## Course Workload Expectations***This is a three-credit course. You should expect to spend, on average, 9 hours per week on this class.***
- You will spend 3 hours per week in class, ... . In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, ... . (See *Definition of the Credit Hour*)
+1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
+2.	**Internet Access:** You will need Internet access for access to:
+    1.	**GitLab** – We will use Git:Lab to host our projects.
+    2.	**WSU Gmail** – You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to comm3nicate, and you will be subscribing to OpenMRS mailing lists.
+    3.	**Wordpress or other blogging platform** – You will be keeping a blog about your learning in this course.
+    4.	**Tutorials and articles** – I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+
+## Where Does This Course Lead?
+* Your professional career
+
+## Course Workload Expectations
+***This is a three-credit course. You should expect to spend, on average, 9 hours per week on this class.***
+ 
+You will spend 3 hours per week in class, ... . In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, ... . (See *Definition of the Credit Hour*)
 
 ## Definition of the Credit Hour
 Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
