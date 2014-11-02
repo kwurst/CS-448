@@ -1,4 +1,4 @@
-### *CS-448 01 - Spring 2016*
+### *CS-448 01 --- Spring 2016*
 
 # Software Development Capstone
 
