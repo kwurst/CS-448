@@ -1,4 +1,4 @@
-### *CS-448 01 --- Spring 2016*
+### *CS-448 01 --- Spring 2017*
 
 # Software Development Capstone
 
@@ -14,7 +14,7 @@ Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
 
 ## Meeting Times and Locations
-MWF 8:30-9:20am<br>
+TR 10:00-11:15am<br>
 ST 107
 
 ## It's in the Syllabus
@@ -99,17 +99,18 @@ You will spend 3 hours per week in class participating in Scrum meetings, attend
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
 
 ## Prerequisites
-* CS 348 Software Process Management
+* CS 343 Software Construction, Design and Architecture
+* CS 348 Software Process Management (Corequisite)
 * CS 373 Operating Systems
 * CS 443 Software Quality Assurance and Testing
 
-This course has a prerequisite of CS 348 – Software Process Management. I expect you to have some familiarity with the software development process, with some team processes, collaboration tools, and can use them as your team works on its project during this semester.
+This course has a prerequisite of CS 343 - Software Construction, Design and Architecture. I expect that you understand good software design and construction principles, can read code and comprehend the design of a system, can design and build software as part of a larger system using good design principles.
+
+This course has a prerequisite or corequisite of CS 348 – Software Process Management. You will either have or be developing some familiarity with the software development process, with some team processes, collaboration tools, and will use them as your team works on its project during this semester.
 
 This course has a prerequisite of CS 373 - Operating Systems. I expect you to understand some of the problems of large, concurrent systems that manage system resources.
 
 This course has a prerequisite of CS 443 - Software Quality Assurance and Testing. I expect you to be able to develop and implement appropriate test cases, and be able to use test automation systems.
-
-CS 348 required CS 343 - Software Construction, Design and Architecture. I expect that you understand good software design and construction principles, can read code and comprehend the design of a system, can design and build software as part of a larger system using good design principles.
 
 CS 373 required CS 282 - UNIX System Programming. I expect you to have some familitarity with command-line interfaces and low-level systems coding.
 
@@ -301,7 +302,7 @@ Your blog entries will be about your learning in the class, the work and work pr
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
 ## Final Presentation
-Final presentations by teams will be given during our scheduled final exam period – Friday, 6 May 2016 from 8:30am-11:30am
+Final presentations by teams will be given during our scheduled final exam period – Friday, 9 May 2017 from 8:30am-11:30am
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -365,20 +366,27 @@ Each student is responsible for the contents of the readings, discussions, class
 This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 commuting hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wne.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
 
 ## Schedule
-Our first class will be on Wednesday, 20 January 2016
+*The following course schedule is subject to change.*
 
-Our last class will be on Monday, 2 May 2016
-
-We will not have class on:
-
-* Friday, 5 February 2016 as I will be at a workshop
-* Monday, 15 February 2016 due to the President’s Day holiday
-* Wednesday, 2 March 2016 and Friday, 4 March 2016 as I will be at a conference
-* Monday, 21 March 2016, Wednesday, 23 March 2016 and Friday, 25 March 2016 due to Spring Break
-* Monday, 18 April 2016 due to the Patriot’s Day holiday
-* Friday, 29 April 2016 as I will be at a conference
-
-Final presentations will be given during our scheduled final exam period – Friday, 6 May 2016 from 8:30am-11:30am.
+ | Tuesday | Thursday
+--- | :-- | :-- 
+Week 1 | 17 January<br> | 19 January<br>
+Week 2 | 24 January<br> | 26 January<br>
+Week 3 | 31 January<br> | 2 February<br>
+Week 4 | 7 February<br> | 9 February<br>
+Week 5 | 14 February<br> | 16 February<br>
+Week 6 | 21 February<br> | 23 February<br>
+Week 7 | 28 February<br> | 2 March<br>
+Week 8 | 7 March<br> | 9 March<br>**No Class - I will be at a conference**
+Week 9 | 14 March<br> | 16 March<br>
+**Spring<br>Break** | 21 March<br>**No Class - Spring Break** | 23 March<br>**No Class - Spring Break**
+Week 10 | 28 March<br> | 30 March<br>
+Week 11 | 4 April<br> | 6 April<br>
+Week 12 | 11 April<br> | 13 April<br>
+Week 13 | 18 April<br> | 20 April<br>
+Week 14 | 25 April<br> | 27 April<br>
+Week 15/<br>Final Exams | 2 May<br>Last Day of Classes | 4 May<br>**No Class** (Classes have ended)
+Final Exams | 9 May<br>**Final Exam - 8:30am-11:30am**
 
 ##Copyright and License
 ####&copy; 2016 Karl R. Wurst, Worcester State University
