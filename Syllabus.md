@@ -368,25 +368,25 @@ This course is heavily influenced by discussions with [Dr. Stoney Jackson](http:
 ## Schedule
 *The following course schedule is subject to change.*
 
- | Tuesday | Thursday
---- | :-- | :-- 
-Week 1 | 17 January<br> | 19 January<br>
-Week 2 | 24 January<br> | 26 January<br>
-Week 3 | 31 January<br> | 2 February<br>
-Week 4 | 7 February<br> | 9 February<br>
-Week 5 | 14 February<br> | 16 February<br>
-Week 6 | 21 February<br> | 23 February<br>
-Week 7 | 28 February<br> | 2 March<br>
-Week 8 | 7 March<br> | 9 March<br>**No Class - I will be at a conference**
-Week 9 | 14 March<br> | 16 March<br>
-**Spring<br>Break** | 21 March<br>**No Class - Spring Break** | 23 March<br>**No Class - Spring Break**
-Week 10 | 28 March<br> | 30 March<br>
-Week 11 | 4 April<br> | 6 April<br>
-Week 12 | 11 April<br> | 13 April<br>
-Week 13 | 18 April<br> | 20 April<br>
-Week 14 | 25 April<br> | 27 April<br>
-Week 15/<br>Final Exams | 2 May<br>Last Day of Classes | 4 May<br>**No Class** (Classes have ended)
-Final Exams | 9 May<br>**Final Exam - 8:30am-11:30am**
+ | Tuesday | Thursday | Readings
+--- | :-- | :-- | :--
+Week 1 | 17 January<br> | 19 January<br> | *The Clean Coder*<br>Chapters 1 & 2
+Week 2 | 24 January<br> | 26 January<br> | *The Clean Coder*<br>Chapters 3 & 4
+Week 3 | 31 January<br> | 2 February<br> | *The Clean Coder*<br>Chapters 5 & 6
+Week 4 | 7 February<br> | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
+Week 5 | 14 February<br> | 16 February<br> | *The Clean Coder*<br>Chapters 9 & 10
+Week 6 | 21 February<br> | 23 February<br> | *The Clean Coder*<br>Chapters 11 & 12
+Week 7 | 28 February<br> | 2 March<br> | *The Clean Coder*<br>Chapters 13 & 14
+Week 8 | 7 March<br> | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
+Week 9 | 14 March<br> | 16 March<br>  | *The Software Craftsman*<br>Chapters 3 & 4
+**Spring<br>Break** | 21 March - **No Class<br>Spring Break** | 23 March - **No Class<br>Spring Break**
+Week 10 | 28 March<br> | 30 March<br>  | *The Software Craftsman*<br>Chapters 5 & 6
+Week 11 | 4 April<br> | 6 April<br>  | *The Software Craftsman*<br>Chapters 7 & 8
+Week 12 | 11 April<br> | 13 April<br>  | *The Software Craftsman*<br>Chapters 9 & 10
+Week 13 | 18 April<br> | 20 April<br>  | *The Software Craftsman*<br>Chapters 11 & 12
+Week 14 | 25 April<br> | 27 April<br>  | *The Software Craftsman*<br>Chapters 13 & 14
+Week 15/<br>Final Exams | 2 May<br>Last Day of Classes | 4 May - **No Class**<br>(Classes have ended)  | *The Software Craftsman*<br>Chapters 15 & 16
+Final Exams | 9 May - **8:30am-11:30am<br>Final Presentations**
 
 ##Copyright and License
 ####&copy; 2016 Karl R. Wurst, Worcester State University
