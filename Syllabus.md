@@ -377,7 +377,7 @@ Week 4 | 7 February<br> | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
 Week 5 | 14 February<br> | 16 February<br> | *The Clean Coder*<br>Chapters 9 & 10
 Week 6 | 21 February<br> | 23 February<br> | *The Clean Coder*<br>Chapters 11 & 12
 Week 7 | 28 February<br> | 2 March<br> | *The Clean Coder*<br>Chapters 13 & 14
-Week 8 | 7 March<br> | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
+Week 8 | 7 March - **No Class<br>I will be at a conference**  | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
 Week 9 | 14 March<br> | 16 March<br>  | *The Software Craftsman*<br>Chapters 3 & 4
 **Spring<br>Break** | 21 March - **No Class<br>Spring Break** | 23 March - **No Class<br>Spring Break**
 Week 10 | 28 March<br> | 30 March<br>  | *The Software Craftsman*<br>Chapters 5 & 6
