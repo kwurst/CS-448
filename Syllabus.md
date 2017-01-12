@@ -11,7 +11,7 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
-See [http://cs.worcester.edu/kwurst/]() for contact information and schedule.
+See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for contact information and schedule.
 
 ## Meeting Times and Locations
 TR 10:00-11:15am<br>
@@ -28,7 +28,7 @@ Robert C. Martin<br>
 Prentice Hall, 2011l<br>
 ISBN-13: 9780137081073<br>
 <a href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page" target="_blank">Website</a><br>
-(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
+(See *ACM Student Membership* below for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://cs.worcester.edu/kwurst/img2/0134052501.jpg align=left height=110 style="padding-right:10px">
 *The Software Craftsman: Professionalism, Pragmatism, Pride*<br>
@@ -43,7 +43,7 @@ Robert C. Martin<br>
 Prentice Hall, 2009<br>
 ISBN-13: 9780132350884<br>
 <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br>
-(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
+(See *ACM Student Membership* below for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
 *Scrum: A Breathtakingly Brief and Agile Introduction*<br>
@@ -73,7 +73,7 @@ In addition to the textbook, to successfully complete this course you will need:
     5.	**Tutorials and articles** - I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## <a name="acm-student-membership"></a>ACM Student Membership
-It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>, including Safari Books, which includes electronic copies of both *Clean Code* and *Head First Software Development*.
+It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>, including Safari Books, which includes electronic copies of both *Clean Code* and *The Clean Coder*.
 
 The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
 
@@ -138,7 +138,7 @@ This course is intended to mimic, as closely as possible, the professional softw
 
 The students will have to learn new technology and techniques on their own as required for the specific project, showing the importance of continuing professional development. They will have to reflect on their learning and make frequent written and oral status reports on their individual and team progress. They will be encouraged to contribute the results of their learning and their work back to the professional community.
 
-The students will explore what it means to be a professional software developer.
+The students will explore and reflect on what it means to be a professional software developer.
 
 ## Course-Level Student Learning Outcomes
 
@@ -150,6 +150,10 @@ Upon successful completion of this course, students will be able to:
 * Select and follow a suitable process model.
 * Analyze a project for professional, social, and ethical issues.
 * Learn new models, techniques, and technologies as needed and appreciate the necessity of such continuing professional development.
+
+## Civic Learning, Engagement Required (CLER) Course
+
+In this course we will be helping to write code for [AMPATH](http://www.ampathkenya.org/), a consortium of health centers working with the Kenyan government to provide healthcare in Kenya. 
 
 ## LASC Student Learning Outcomes
 
@@ -177,7 +181,7 @@ This course fulfills the Capstone Experience requirement for both the Major in C
 * may include research, leadership and internship opportunities, artistic projects, the production of a portfolio of student work, and/or other culminating learning experiences.
 
 ## Program-Level Student Learning Outcomes
-This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/ComputerScienceDept/Shared%20Documents/ProgramOutcomes.aspx]()):
+This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/Computer-Science-Program/](http://www.worcester.edu/Computer-Science-Program/)):
 
 Upon successful completion of the Major in Computer Science, students will be able to:
 	
@@ -207,8 +211,9 @@ Assignment Category | Percentage
 ---|:-:
 Attendance and Participation in Team Status, Planning, Estimation, and Review Meetings | 25%
 Peer Reviews | 20%
-Blog Entries with Reflections on Learning and Work Products | 30%
-Final Group Presentation  | 25%
+Blog posts with Reflections on Learning and Work Products | 25%
+Blog posts on Professionalism Readings | 15%
+Final Group Presentation  | 15%
  
 ## Grading Scale
 Percentage | Letter Grade 
@@ -232,41 +237,33 @@ Each range includes the lower value, but not the upper value. For example, the r
 
 You must attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. Your attendance and participation in class will be scored as follows:
 
-Score | Description
----|---
-2 | Present and Participating
-1 | Late or missing a significant portion of class
-0 | Absent or not participating
-<img src=exempt.png> | Excused Absence*
+ | Meets Expectations | Needs Improvement | Inadequate
+ --- | --- | --- | ---
+ Attendance | Present, arrived on time. (1 pt.) | Present but arrived late. (1/2 pt.) | Absent, without excuse. (0 pts.) 
+ Participation | Full participation in group activities. (1 pt.) | Partial participation in group activities. (1/2 pt.) | Not participating in group activities. (0 pts.) 
 
-*An excused absence is determined by the instructor. Ideally, it will be arranged in advance. Otherwise, the instructor must be notified of the absence and the reason as soon as possible, preferrably by the end of the day. The excused absence will not count for or against your Attendance and Participation grade - instead the Attendance and Participation grade will be calculated out of one fewer class meetings.
+### Excused Absences
 
+An excused absence is determined by the instructor in consulatation with the student's team. 
+
+Ideally, it will be arranged in advance, with the student providing notification to his/her team along with any materials the student was to provide to the team in class. Otherwise, the instructor and team must be notified of the absence and the reason as soon as possible, preferrably by the end of the day. 
+
+The excused absence will not count for or against your Attendance and Participation grade - instead the Attendance and Participation grade will be calculated out of one fewer class meetings. An excused absence is indicated by the symbol <img src=exempt.png> in the Blackboard Gradebook.
 
 ## Peer Reviews
 
-Teamwork will be evaluated by peer review. Below are the characteristics that will be used to assess teamwork. At the end of each sprint, each team member will evaluate each other team member in the following areas using a 3 point scale.
+Teamwork will be evaluated by peer review. You will get 1 point for completing your peer review document, reviewing your team's performance, each week.
 
-### Areas
-* Attendance
-    * Makes all meetings
-    * Is on time for meetings
-    * Participates in meetings
-* Communication
-    * Timely
-    * Clear
-    * Professional
-* Cooperation
-    * Willingness to help others
-    * Asks for help when needed
-    * Willingness to receive help
-* Dependability
-    * Takes on responsibilities
-    * Meets responsibilities
-* Enthusiasm
-    * Good attitude
-    * Encouraging to others
+Below are the characteristics that will be used to assess teamwork. At the end of each sprint, each team member will evaluate each other team member in the following areas using a 3 point scale.
 
-### Scale
+<table>
+<tr>
+<td> Attendance </td><td>Communication</td><td>Cooperation</td><td>Dependability</td><td>Attitude</td></tr>
+<tr>
+<td> <ul><li>Makes all meetings<li>Is on time for meetings<li>Participates in meetings </td><td><ul><li>Timely<li>Clear<li>Professional</td><td><ul><li>Willingness to help others<li>Asks for help when needed<li>Willingness to receive help</td><td><ul><li>Takes on responsibilities<li>Meets responsibilities</td><td><ul><li>Enthusiastic<li>Encouraging to others</td>
+</tr>
+</table>
+
 Points | Description
 --- | ---
 3 | Excellent
@@ -293,16 +290,36 @@ Second improvement plan |  85%
 Third improvement plan |   70%
 Fourth improvement plan |  0%
 
+## Blog
 
-## Blog Entries with Reflections on Learning and Work Products
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and the [Teaching Open Source Planet](http://planet.teachingopensource.org/). 
+You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible<sup>1</sup>, and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
 
-Your blog entries will be about your learning in the class, the work and work products you are producing, reflections on the readings, etc.
+Your blog posts will be about your learning in the class, the work and work products you are producing, the readings, etc.
 
-[^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
+### Blog Posts with Reflections on Learning and Work Products
+Your blog posts will be about your learning in the class, the work and work products you are producing, etc.
+
+These blog posts will be scored as follows:
+
+ | Excellent (4) |	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
+---|---|---|---|---|---
+Content |	Blog post contains reflection on what the student learned from the week's activities, how the student would proceed differently in light of this, and how what was learned might be applied in other situations. Includes all material from level 3 as well. | Blog post contains an explanation of why the student took the steps s/he did during the week. Describes what was tried, what succeeded and what failed, and how the student chose the course of action. Includes references to where information/help was found. Includes all material from level 2 as well. | Blog post contains detailed description of what was done during the week. Provides a list of steps that could be followed by another person to do the same thing (if applicable). | Blog post contains only a cursory description of what was done during the week. | No blog post posted for the week. 
+
+
+### Blog Posts on Professionalism Readings
+Your blog posts will be about your reflections on the readings in the two books *The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin, and 
+*The Software Craftsman: Professionalism, Pragmatism, Pride* by Sandro Mancuso. You will read two chapters a week and write a single, relatively short blog post about those chapters. 
+
+The posts are intended to be your reaction to the readings, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the readings? Have the readings caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why?
+
+These blog posts will be scored as follows:
+
+ | 	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
+---|---|---|---|---|---
+Content |	Blog post contains a *short* summary of the assigned chapters and comments about the material. The comments are backed up by personal reflections on the material including how the material affected the student and why. | Blog post contains a *short* summary of the assigned chapters and a comment about the material, but the comment is not backed up by any personal reflection on the material. | Blog post contains only a summary of the assigned chapters for the week. | No blog post posted for the assigned chapters for the week. 
 
 ## Final Presentation
-Final presentations by teams will be given during our scheduled final exam period – Friday, 9 May 2017 from 8:30am-11:30am
+Final presentations by teams on their work and experience will be given during our scheduled final exam period – Friday, 9 May 2017 from 8:30am-11:30am
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -322,7 +339,7 @@ By all means, try to work out the material on your own, but ask for help when yo
 I am here to help you understand the material and be successful in the course.
 
 ## Contacting Me
-You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/]()) or you may make an appointment for a mutually convenient time.
+You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/)) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include “[CS-448]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
@@ -358,19 +375,19 @@ Worcester State Library has access to many articles through online databases inc
 ## Academic Conduct
 Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts. 
 
-**You should familiarize yourself with Worcester State College’s Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears at: [http://worcester.edu/Academics/Shared%20Documents/AcademicHonesty.aspx]()**
+**You should familiarize yourself with Worcester State College’s Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears at: [http://www.worcester.edu/Academic-Policies/](http://www.worcester.edu/Academic-Policies/)**
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is heavily influenced by discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University (64 commuting hours in his car, lunches, attending his CS-390 class, and more...) during the Fall 2014 semester. It is also based on materials from [Dr. Heidi Ellis](http://mars.wne.edu/~hellis) of Western New England University, and materials from the [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
+This course is heavily influenced by ongoing discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University beginning during the Fall 2014 semester (with 64 commuting hours in his car, lunches, attending his CS-390 class, and more.) It is also based on materials from the [FOSS2Serve](http://foss2serve.org/index.php/Main_Page)/[Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
 
 ## Schedule
 *The following course schedule is subject to change.*
 
  | Tuesday | Thursday | Readings
 --- | :-- | :-- | :--
-Week 1 | 17 January<br> | 19 January<br> | *The Clean Coder*<br>Chapters 1 & 2
+Week 1 | 17 January<br>Team Formation I | 19 January<br>Team Formation II | *The Clean Coder*<br>Chapters 1 & 2
 Week 2 | 24 January<br> | 26 January<br> | *The Clean Coder*<br>Chapters 3 & 4
 Week 3 | 31 January<br> | 2 February<br> | *The Clean Coder*<br>Chapters 5 & 6
 Week 4 | 7 February<br> | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
@@ -389,6 +406,8 @@ Week 15/<br>Final Exams | 2 May<br>Last Day of Classes | 4 May - **No Class**<br
 Final Exams | 9 May - **8:30am-11:30am<br>Final Presentations**
 
 ##Copyright and License
-####&copy; 2016 Karl R. Wurst, Worcester State University
+####&copy; 2017 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/]() or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+<sup>1</sup>: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
