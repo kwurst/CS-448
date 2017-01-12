@@ -292,12 +292,9 @@ Fourth improvement plan |  0%
 
 ## Blog
 
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
+You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[<sup>1</sup>](#footnote-1), and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
 
 Your blog posts will be about your learning in the class, the work and work products you are producing, the readings, etc.
-
-[^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
-
 
 ### Blog Posts with Reflections on Learning and Work Products
 Your blog posts will be about your learning in the class, the work and work products you are producing, etc.
@@ -412,3 +409,6 @@ Final Exams | 9 May - **8:30am-11:30am<br>Final Presentations**
 ####&copy; 2017 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+######<a name="footnote-1"></a>Footnote 1:
+If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
