@@ -28,7 +28,7 @@ Robert C. Martin<br>
 Prentice Hall, 2011l<br>
 ISBN-13: 9780137081073<br>
 <a href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page" target="_blank">Website</a><br>
-(See *ACM Student Membership* below for a way you can get access to this textbook for no additional cost.)
+(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://cs.worcester.edu/kwurst/img2/0134052501.jpg align=left height=110 style="padding-right:10px">
 *The Software Craftsman: Professionalism, Pragmatism, Pride*<br>
@@ -43,7 +43,7 @@ Robert C. Martin<br>
 Prentice Hall, 2009<br>
 ISBN-13: 9780132350884<br>
 <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br>
-(See *ACM Student Membership* below for a way you can get access to this textbook for no additional cost.)
+(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
 
 <img src=http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
 *Scrum: A Breathtakingly Brief and Agile Introduction*<br>
