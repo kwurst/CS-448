@@ -247,7 +247,7 @@ Teamwork will be evaluated by peer review. You will get 1 point for completing y
 
 Below are the characteristics that will be used to assess teamwork. At the end of each sprint, each team member will evaluate each other team member in the following areas using a 3 point scale.
 
-<table>
+<table border=1>
 <tr>
 <td align="center"><b>Attendance</td><td align="center"><b>Communication</td><td align="center"><b>Cooperation</td><td align="center"><b>Dependability</td><td align="center"><b>Attitude</td></tr>
 <tr>
