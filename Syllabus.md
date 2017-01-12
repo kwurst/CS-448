@@ -1,3 +1,4 @@
+*Version 2017-Spring-0.7, Revised 12 January 2017*
 ### *CS-448 01 --- Spring 2017*
 
 # Software Development Capstone
@@ -22,44 +23,34 @@ ST 107
 <a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
 
 ## Textbooks
-<img src=http://cs.worcester.edu/kwurst/img2/0137081073.jpg align=left height=110 style="padding-right:10px">
-*The Clean Coder: A Code of Conduct for Professional Programmers*<br>
-Robert C. Martin<br>
-Prentice Hall, 2011l<br>
-ISBN-13: 9780137081073<br>
-<a href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page" target="_blank">Website</a><br>
-(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
-
-<img src=http://cs.worcester.edu/kwurst/img2/0134052501.jpg align=left height=110 style="padding-right:10px">
-*The Software Craftsman: Professionalism, Pragmatism, Pride*<br>
-Sandro Mancuso<br>
-Prentice Hall, 2015<br>
-ISBN-13: 9780134052502<br>
-<a href="http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page" target="_blank">Website</a><br>
-
-<img src=http://cs.worcester.edu/kwurst/img2/0132350882.jpg align=left height=110 style="padding-right:10px">
-*Clean Code: A Handbook of Agile Software Craftsmanship*<br>
-Robert C. Martin<br>
-Prentice Hall, 2009<br>
-ISBN-13: 9780132350884<br>
-<a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br>
-(See [ACM Student Membership](#acm-student-membership) for a way you can get access to this textbook for no additional cost.)
-
-<img src=http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg align=left height=110 style="padding-right:10px">
-*Scrum: A Breathtakingly Brief and Agile Introduction*<br>
-Chris Sims and Hillary Louise Johnson<br>
-Dymaxicon, 2012<br>
-ISBN-13: 9781937965044<br>
-<a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&sr=8-1&qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br>
-<a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target= "_blank">Read the whole text online here</a>
-
-<img src=http://cs.worcester.edu/kwurst/img2/1802_image001.jpg align=left height=110 style="padding-right:10px">
-*Version Control by Example*<br>
-Eric Sink<br>
-Source Gear, 2011<br>
-ISBN-13: 9780983507901<br>
-<a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a>
-
+<table cellpadding="1" border="0">
+<tbody>
+<tr>
+<td><img style="padding-right: 10px; float: left;" src="http://cs.worcester.edu/kwurst/img2/0137081073.jpg" width="124" height="161" /></td>
+<td><em>The Clean Coder: A Code of Conduct for Professional Programmers</em><br /> Robert C. Martin<br /> Prentice Hall, 2011<br /> ISBN-13: 9780137081073<br /> <a target="_blank" href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
+</tr>
+<tr>
+<td>
+<p><img style="padding-right: 10px; float: left;" src="http://cs.worcester.edu/kwurst/img2/0134052501.jpg" width="124" height="162" /></p>
+</td>
+<td><em>The Software Craftsman: Professionalism, Pragmatism, Pride</em><br>Sandro Mancuso <br /> Prentice Hall, 2015<br>ISBN-13: 9780134052502<br><a target="_blank" href="http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page">Website</a><br></td>
+</tr>
+<tr>
+<td><img src="http://cs.worcester.edu/kwurst/img2/0132350882.jpg" style="padding-right: 10px; float: left;" width="124" height="151" /></td>
+<td><em>Clean Code: A Handbook of Agile Software Craftsmanship</em><br /> Robert C. Martin<br /> Prentice Hall, 2009<br /> ISBN-13: 9780132350884<br /> <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
+</tr>
+<tr>
+<td style="text-align: center;"><img src="http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg" style="padding-right: 10px; float: left;" width="110" height="159" /></td>
+<td><em>Scrum: A Breathtakingly Brief and Agile Introduction</em><br /> Chris Sims and Hillary Louise Johnson<br /> Dymaxicon, 2012<br /> ISBN-13: 9781937965044<br /> <a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br /> <a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target="_blank">Read the whole text online here</a></td>
+</tr>
+<tr>
+<td><img src="http://cs.worcester.edu/kwurst/img2/1802_image001.jpg" style="padding-right: 10px; float: left;" width="124" height="163" /></td>
+<td>
+<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Required Materials
 In addition to the textbook, to successfully complete this course you will need:
@@ -258,7 +249,7 @@ Below are the characteristics that will be used to assess teamwork. At the end o
 
 <table>
 <tr>
-<td> Attendance </td><td>Communication</td><td>Cooperation</td><td>Dependability</td><td>Attitude</td></tr>
+<td align="center"><b>Attendance</td><td align="center"><b>Communication</td><td align="center"><b>Cooperation</td><td align="center"><b>Dependability</td><td align="center"><b>Attitude</td></tr>
 <tr>
 <td> <ul><li>Makes all meetings<li>Is on time for meetings<li>Participates in meetings </td><td><ul><li>Timely<li>Clear<li>Professional</td><td><ul><li>Willingness to help others<li>Asks for help when needed<li>Willingness to receive help</td><td><ul><li>Takes on responsibilities<li>Meets responsibilities</td><td><ul><li>Enthusiastic<li>Encouraging to others</td>
 </tr>
@@ -292,9 +283,12 @@ Fourth improvement plan |  0%
 
 ## Blog
 
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[<sup>1</sup>](#footnote-1), and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
+You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
 
 Your blog posts will be about your learning in the class, the work and work products you are producing, the readings, etc.
+
+[^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
+
 
 ### Blog Posts with Reflections on Learning and Work Products
 Your blog posts will be about your learning in the class, the work and work products you are producing, etc.
@@ -385,8 +379,8 @@ This course is heavily influenced by ongoing discussions with [Dr. Stoney Jackso
 ## Schedule
 *The following course schedule is subject to change.*
 
- | Tuesday | Thursday | Readings
---- | :-- | :-- | :--
+ | Tuesday | Thursday | Readings/Blog Post
+--- | :-: | :-: | :-:
 Week 1 | 17 January<br>Team Formation I | 19 January<br>Team Formation II | *The Clean Coder*<br>Chapters 1 & 2
 Week 2 | 24 January<br> | 26 January<br> | *The Clean Coder*<br>Chapters 3 & 4
 Week 3 | 31 January<br> | 2 February<br> | *The Clean Coder*<br>Chapters 5 & 6
@@ -409,6 +403,3 @@ Final Exams | 9 May - **8:30am-11:30am<br>Final Presentations**
 ####&copy; 2017 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-
-######<a name="footnote-1"></a>Footnote 1:
-If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
