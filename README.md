@@ -4,8 +4,6 @@
 **Karl R. Wurst**
 <br>Worcester State University
 
-Will be taught for the first time in Spring 2016.
-
 Upon successful completion of this course, students will be able to:
 
 * Develop a significant software system, employing knowledge gained from courses throughout the program.
