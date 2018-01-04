@@ -1,4 +1,4 @@
-*Version 2017-Spring-0.7, Revised 12 January 2017*
+*Version 2017-Spring-0.10, Revised 15 January 2017*
 ### *CS-448 01 --- Spring 2017*
 
 # Software Development Capstone
@@ -26,25 +26,25 @@ ST 107
 <table cellpadding="1" border="0">
 <tbody>
 <tr>
-<td><img style="padding-right: 10px; float: left;" src="http://cs.worcester.edu/kwurst/img2/0137081073.jpg" width="124" height="161" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img2/0137081073.jpg" width="110" /></td>
 <td><em>The Clean Coder: A Code of Conduct for Professional Programmers</em><br /> Robert C. Martin<br /> Prentice Hall, 2011<br /> ISBN-13: 9780137081073<br /> <a target="_blank" href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
 </tr>
 <tr>
 <td>
-<p><img style="padding-right: 10px; float: left;" src="http://cs.worcester.edu/kwurst/img2/0134052501.jpg" width="124" height="162" /></p>
+<p><img src="http://cs.worcester.edu/kwurst/img2/0134052501.jpg" width="110" /></p>
 </td>
 <td><em>The Software Craftsman: Professionalism, Pragmatism, Pride</em><br>Sandro Mancuso <br /> Prentice Hall, 2015<br>ISBN-13: 9780134052502<br><a target="_blank" href="http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page">Website</a><br></td>
 </tr>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/0132350882.jpg" style="padding-right: 10px; float: left;" width="124" height="151" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img2/0132350882.jpg" width="110" height="151" /></td>
 <td><em>Clean Code: A Handbook of Agile Software Craftsmanship</em><br /> Robert C. Martin<br /> Prentice Hall, 2009<br /> ISBN-13: 9780132350884<br /> <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg" style="padding-right: 10px; float: left;" width="110" height="159" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
 <td><em>Scrum: A Breathtakingly Brief and Agile Introduction</em><br /> Chris Sims and Hillary Louise Johnson<br /> Dymaxicon, 2012<br /> ISBN-13: 9781937965044<br /> <a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br /> <a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target="_blank">Read the whole text online here</a></td>
 </tr>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/1802_image001.jpg" style="padding-right: 10px; float: left;" width="124" height="163" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img2/1802_image001.jpg" width="110" /></td>
 <td>
 <p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a></p>
 </td>
@@ -200,7 +200,7 @@ Your grade in the course will be determined as follows:
  
 Assignment Category | Percentage
 ---|:-:
-Attendance and Participation in Team Status, Planning, Estimation, and Review Meetings | 25%
+Attendance and Participation in Class (Team Status, Planning, Estimation, and Review Meetings) | 25%
 Peer Reviews | 20%
 Blog posts with Reflections on Learning and Work Products | 25%
 Blog posts on Professionalism Readings | 15%
@@ -224,14 +224,14 @@ less than 60% | E
  
 Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
 
-## Attendance and Participation in Team Status, Planning, Estimation, and Review Meetings
+## Attendance and Participation in Class (Team Status, Planning, Estimation, and Review Meetings)
 
 You must attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. Your attendance and participation in class will be scored as follows:
 
  | Meets Expectations | Needs Improvement | Inadequate
  --- | --- | --- | ---
- Attendance | Present, arrived on time. (1 pt.) | Present but arrived late. (1/2 pt.) | Absent, without excuse. (0 pts.) 
- Participation | Full participation in group activities. (1 pt.) | Partial participation in group activities. (1/2 pt.) | Not participating in group activities. (0 pts.) 
+ **Attendance** | Present, arrived on time. (1 pt.) | Present but arrived late. (1/2 pt.) | Absent, without excuse. (0 pts.) 
+ **Participation** | Full participation in group activities. (1 pt.) | Partial participation in group activities. (1/2 pt.) | Not participating in group activities. (0 pts.) 
 
 ### Excused Absences
 
@@ -295,10 +295,9 @@ Your blog posts will be about your learning in the class, the work and work prod
 
 These blog posts will be scored as follows:
 
- | Excellent (4) |	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
----|---|---|---|---|---
-Content |	Blog post contains reflection on what the student learned from the week's activities, how the student would proceed differently in light of this, and how what was learned might be applied in other situations. Includes all material from level 3 as well. | Blog post contains an explanation of why the student took the steps s/he did during the week. Describes what was tried, what succeeded and what failed, and how the student chose the course of action. Includes references to where information/help was found. Includes all material from level 2 as well. | Blog post contains detailed description of what was done during the week. Provides a list of steps that could be followed by another person to do the same thing (if applicable). | Blog post contains only a cursory description of what was done during the week. | No blog post posted for the week. 
-
+Excellent (4) |	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
+---|---|---|---|---
+Blog post contains reflection on what the student learned from the week's activities, how the student would proceed differently in light of this, and how what was learned might be applied in other situations. Includes all material from level 3 as well. *Post is labeled with the week number, e.g. Week 1.* | Blog post contains an explanation of why the student took the steps s/he did during the week. Describes what was tried, what succeeded and what failed, and how the student chose the course of action. Includes references to where information/help was found. Includes all material from level 2 as well. *Post is labeled with the week number, e.g. Week 1.* | Blog post contains detailed description of what was done during the week. Provides a list of steps that could be followed by another person to do the same thing (if applicable). *Post is labeled with the week number, e.g. Week 1.* | Blog post contains only a cursory description of what was done during the week. *Post is labeled with the week number, e.g. Week 1.* | No blog post posted for the week, *or is not labeled with the week number.* 
 
 ### Blog Posts on Professionalism Readings
 Your blog posts will be about your reflections on the readings in the two books *The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin, and 
@@ -308,9 +307,9 @@ The posts are intended to be your reaction to the readings, not simply a summary
 
 These blog posts will be scored as follows:
 
- | 	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
----|---|---|---|---|---
-Content |	Blog post contains a *short* summary of the assigned chapters and comments about the material. The comments are backed up by personal reflections on the material including how the material affected the student and why. | Blog post contains a *short* summary of the assigned chapters and a comment about the material, but the comment is not backed up by any personal reflection on the material. | Blog post contains only a summary of the assigned chapters for the week. | No blog post posted for the assigned chapters for the week. 
+Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
+---|---|---|---|---
+Blog post contains a *short* summary of the assigned chapters and comments about the material. The comments are backed up by personal reflections on the material including how the material affected the student and why. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains a *short* summary of the assigned chapters and a comment about the material, but the comment is not backed up by any personal reflection on the material. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains only a summary of the assigned chapters for the week. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | No blog post posted for the assigned chapters for the week, *or is not labeled with the book title and chapter numbers.* 
 
 ## Final Presentation
 Final presentations by teams on their work and experience will be given during our scheduled final exam period – Friday, 9 May 2017 from 8:30am-11:30am
@@ -376,28 +375,31 @@ Each student is responsible for the contents of the readings, discussions, class
 ## Acknowledgements
 This course is heavily influenced by ongoing discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University beginning during the Fall 2014 semester (with 64 commuting hours in his car, lunches, attending his CS-390 class, and more.) It is also based on materials from the [FOSS2Serve](http://foss2serve.org/index.php/Main_Page)/[Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
 
+## Student Work Retention Policy
+It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
+
 ## Schedule
 *The following course schedule is subject to change.*
 
  | Tuesday | Thursday | Readings/Blog Post
 --- | :-: | :-: | :-:
-Week 1 | 17 January<br>Team Formation I | 19 January<br>Team Formation II | *The Clean Coder*<br>Chapters 1 & 2
-Week 2 | 24 January<br> | 26 January<br> | *The Clean Coder*<br>Chapters 3 & 4
-Week 3 | 31 January<br> | 2 February<br> | *The Clean Coder*<br>Chapters 5 & 6
-Week 4 | 7 February<br> | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
-Week 5 | 14 February<br> | 16 February<br> | *The Clean Coder*<br>Chapters 9 & 10
-Week 6 | 21 February<br> | 23 February<br> | *The Clean Coder*<br>Chapters 11 & 12
-Week 7 | 28 February<br> | 2 March<br> | *The Clean Coder*<br>Chapters 13 & 14
-Week 8 | 7 March<br>  | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
-Week 9 | 14 March<br> | 16 March<br>  | *The Software Craftsman*<br>Chapters 3 & 4
+**Week 1** | 17 January<br>Course/Project Introduction<br>Team Formation I | 19 January<br>Team Formation II<br>Team Process/Tools | *The Clean Coder*<br>Chapters 1 & 2
+**Week 2** | 24 January<br>**Sprint Planning**<br>Development Environment, Learning Angular | 26 January<br>Version Control, Learning Angular | *The Clean Coder*<br>Chapters 3 & 4
+**Week 3** | 31 January<br> | 2 February<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 5 & 6
+**Week 4** | 7 February<br>**Sprint Planning** | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
+**Week 5** | 14 February<br> | 16 February<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 9 & 10
+**Week 6** | 21 February<br>**Sprint Planning** | 23 February<br> | *The Clean Coder*<br>Chapters 11 & 12
+**Week 7** | 28 February<br> | 2 March<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 13 & 14
+**Week 8** | 7 March<br>**Sprint Planning**  | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
+**Week 9** | 14 March<br> | 16 March<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 3 & 4
 **Spring<br>Break** | 21 March - **No Class<br>Spring Break** | 23 March - **No Class<br>Spring Break**
-Week 10 | 28 March<br> | 30 March<br>  | *The Software Craftsman*<br>Chapters 5 & 6
-Week 11 | 4 April<br> | 6 April<br>  | *The Software Craftsman*<br>Chapters 7 & 8
-Week 12 | 11 April<br> | 13 April<br>  | *The Software Craftsman*<br>Chapters 9 & 10
-Week 13 | 18 April<br> | 20 April<br>  | *The Software Craftsman*<br>Chapters 11 & 12
-Week 14 | 25 April<br> | 27 April<br>  | *The Software Craftsman*<br>Chapters 13 & 14
-Week 15/<br>Final Exams | 2 May<br>Last Day of Classes | 4 May - **No Class**<br>(Classes have ended)  | *The Software Craftsman*<br>Chapters 15 & 16
-Final Exams | 9 May - **8:30am-11:30am<br>Final Presentations**
+**Week 10** | 28 March<br>**Sprint Planning** | 30 March<br>  | *The Software Craftsman*<br>Chapters 5 & 6
+**Week 11** | 4 April<br> | 6 April<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 7 & 8
+**Week 12** | 11 April<br>**Sprint Planning** | 13 April<br>  | *The Software Craftsman*<br>Chapters 9 & 10
+**Week 13** | 18 April<br> | 20 April<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 11 & 12
+**Week 14** | 25 April<br>**Sprint Planning** | 27 April<br>  | *The Software Craftsman*<br>Chapters 13 & 14
+**Week 15/<br>Final Exams** | 2 May<br>Last Day of Classes<br>**Sprint Review, Retrospective** | 4 May - **No Class**<br>(Classes have ended)  | *The Software Craftsman*<br>Chapters 15 & 16
+**Final Exams** | 9 May - **8:30am-11:30am<br>Final Presentations**
 
 ##Copyright and License
 ####&copy; 2017 Karl R. Wurst, Worcester State University
