@@ -1,5 +1,5 @@
-*Version 2017-Spring-0.10, Revised 15 January 2017*
-### *CS-448 01 --- Spring 2017*
+*Version 2018-Spring-0.1, Revised 5 January 2018*
+### *CS-448 02 --- Spring 2018*
 
 # Software Development Capstone
 
@@ -15,7 +15,7 @@ Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for contact information and schedule.
 
 ## Meeting Times and Locations
-TR 10:00-11:15am<br>
+TR 11:30am-12:45pm<br>
 ST 107
 
 ## It's in the Syllabus
@@ -26,25 +26,17 @@ ST 107
 <table cellpadding="1" border="0">
 <tbody>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/0137081073.jpg" width="110" /></td>
-<td><em>The Clean Coder: A Code of Conduct for Professional Programmers</em><br /> Robert C. Martin<br /> Prentice Hall, 2011<br /> ISBN-13: 9780137081073<br /> <a target="_blank" href="http://www.pearsonhighered.com/educator/product/Clean-Coder-The-A-Code-of-Conduct-for-Professional-Programmers/9780137081073.page">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
-</tr>
-<tr>
 <td>
-<p><img src="http://cs.worcester.edu/kwurst/img2/0134052501.jpg" width="110" /></p>
+<p><img src="http://cs.worcester.edu/kwurst/img/0134052501.jpg" width="110" /></p>
 </td>
 <td><em>The Software Craftsman: Professionalism, Pragmatism, Pride</em><br>Sandro Mancuso <br /> Prentice Hall, 2015<br>ISBN-13: 9780134052502<br><a target="_blank" href="http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page">Website</a><br></td>
 </tr>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/0132350882.jpg" width="110" height="151" /></td>
-<td><em>Clean Code: A Handbook of Agile Software Craftsmanship</em><br /> Robert C. Martin<br /> Prentice Hall, 2009<br /> ISBN-13: 9780132350884<br /> <a href="http://www.pearsonhighered.com/educator/product/Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/9780132350884.page" target="_blank">Website</a><br /> (See <a href="#acm-student-membership">ACM Student Membership</a> for a way you can get access to this textbook for no additional cost.)</td>
-</tr>
-<tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
 <td><em>Scrum: A Breathtakingly Brief and Agile Introduction</em><br /> Chris Sims and Hillary Louise Johnson<br /> Dymaxicon, 2012<br /> ISBN-13: 9781937965044<br /> <a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br /> <a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target="_blank">Read the whole text online here</a></td>
 </tr>
 <tr>
-<td><img src="http://cs.worcester.edu/kwurst/img2/1802_image001.jpg" width="110" /></td>
+<td><img src="http://cs.worcester.edu/kwurst/img/1802_image001.jpg" width="110" /></td>
 <td>
 <p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a></p>
 </td>
@@ -64,7 +56,7 @@ In addition to the textbook, to successfully complete this course you will need:
     5.	**Tutorials and articles** - I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## <a name="acm-student-membership"></a>ACM Student Membership
-It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>, including Safari Books, which includes electronic copies of both *Clean Code* and *The Clean Coder*.
+It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>.
 
 The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
 
@@ -75,7 +67,7 @@ The ACM is the world's largest educational and scientific computing professional
 ## Course Workload Expectations
 ***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per week on this class.***
  
-You will spend 3 hours per week in class participating in Scrum meetings, attending Product Owner meetings, discussing the readings, or working on training sessions on new tools and techniques. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
+You will spend 3 hours per week in class participating in Scrum meetings, attending Product Owner meetings, working with your team, or working on training sessions on new tools and techniques. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
 
 ***The bulk of your work in this course will take place outside of the class time. It is not possible to contribute the amount of work your team and the class need to be successful entirely within the 3 hours of class time. If you attempt to do so, you will not only receive a poor grade in the course, but will also be letting down your classmates, and giving a poor impression of your reliability and quality of work to your classmates and to members of the professional community.***
 
@@ -312,7 +304,7 @@ Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
 Blog post contains a *short* summary of the assigned chapters and comments about the material. The comments are backed up by personal reflections on the material including how the material affected the student and why. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains a *short* summary of the assigned chapters and a comment about the material, but the comment is not backed up by any personal reflection on the material. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains only a summary of the assigned chapters for the week. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | No blog post posted for the assigned chapters for the week, *or is not labeled with the book title and chapter numbers.* 
 
 ## Final Presentation
-Final presentations by teams on their work and experience will be given during our scheduled final exam period – Friday, 9 May 2017 from 8:30am-11:30am
+Final presentations by teams on their work and experience will be given during our scheduled final exam period – Tursday, 10 May 2018 from 12:30-3:30pm
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -381,27 +373,27 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
- | Tuesday | Thursday | Readings/Blog Post
---- | :-: | :-: | :-:
-**Week 1** | 17 January<br>Course/Project Introduction<br>Team Formation I | 19 January<br>Team Formation II<br>Team Process/Tools | *The Clean Coder*<br>Chapters 1 & 2
-**Week 2** | 24 January<br>**Sprint Planning**<br>Development Environment, Learning Angular | 26 January<br>Version Control, Learning Angular | *The Clean Coder*<br>Chapters 3 & 4
-**Week 3** | 31 January<br> | 2 February<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 5 & 6
-**Week 4** | 7 February<br>**Sprint Planning** | 9 February<br> | *The Clean Coder*<br>Chapters 7 & 8
-**Week 5** | 14 February<br> | 16 February<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 9 & 10
-**Week 6** | 21 February<br>**Sprint Planning** | 23 February<br> | *The Clean Coder*<br>Chapters 11 & 12
-**Week 7** | 28 February<br> | 2 March<br>**Sprint Review, Retrospective** | *The Clean Coder*<br>Chapters 13 & 14
-**Week 8** | 7 March<br>**Sprint Planning**  | 9 March - **No Class<br>I will be at a conference** | *The Software Craftsman*<br>Chapters 1 & 2
-**Week 9** | 14 March<br> | 16 March<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 3 & 4
-**Spring<br>Break** | 21 March - **No Class<br>Spring Break** | 23 March - **No Class<br>Spring Break**
-**Week 10** | 28 March<br>**Sprint Planning** | 30 March<br>  | *The Software Craftsman*<br>Chapters 5 & 6
-**Week 11** | 4 April<br> | 6 April<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 7 & 8
-**Week 12** | 11 April<br>**Sprint Planning** | 13 April<br>  | *The Software Craftsman*<br>Chapters 9 & 10
-**Week 13** | 18 April<br> | 20 April<br>**Sprint Review, Retrospective**  | *The Software Craftsman*<br>Chapters 11 & 12
-**Week 14** | 25 April<br>**Sprint Planning** | 27 April<br>  | *The Software Craftsman*<br>Chapters 13 & 14
-**Week 15/<br>Final Exams** | 2 May<br>Last Day of Classes<br>**Sprint Review, Retrospective** | 4 May - **No Class**<br>(Classes have ended)  | *The Software Craftsman*<br>Chapters 15 & 16
-**Final Exams** | 9 May - **8:30am-11:30am<br>Final Presentations**
+&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday
+--- | :-: | :-: | :-: | :-: | :-:
+**Week 1** | | 16 January<br>Course/Project Introduction<br><hr>**Team Formation Survey Due 11:59pm**| |  18 January<br>Team Process/Tools 
+**Week 2** | | 23 January<br>Development Environment, Learning Angular | | 25 January<br>Version Control, Learning Angular 
+**Week 3** | | 30 January<br>Learning Angular | | 1 February<br>**Sprint Planning** | 2 February<br>**Standup<br>Due 11:59pm**
+**Week 4** | 5 February<br>**Standup<br>Due 11:59pm**| 6 February<br>Teams working | 7 February<br>**Standup<br>Due 11:59pm** | 8 February<br>Teams working | 9 February<br>**Standup<br>Due 11:59pm**
+**Week 5** | 12 February<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 13 February<br>**Sprint Review, Retrospective** | 14 February<br>**Sprint Retrospective Blog Due 11:59pm** | 15 February<br>**Sprint Planning** | 16 February<br>**Standup<br>Due 11:59pm**
+**Week 6** |  19 February<br>**Standup<br>Due 11:59pm** | 20 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working | 21 February<br>**Standup<br>Due 11:59pm** | 22 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working | 23 February<br>**Standup<br>Due 11:59pm** 
+**Week 7** | 26 February<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 27 February<br>**Sprint Review, Retrospective** | 28 February<br>**Sprint Retrospective Blog Due 11:59pm**| 1 March<br>**Sprint Planning** | 2 March<br>**Standup<br>Due 11:59pm** 
+**Week 8** | 5 March<br>**Standup<br>Due 11:59pm** | 6 March<br>Teams working | 7 March<br>**Standup<br>Due 11:59pm** | 8 March<br>Teams working | 9 March<br>**Standup<br>Due 11:59pm**
+**Week 9** | 12 March<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 13 March<br>**Sprint Review, Retrospective** | 14 March<br>**Sprint Retrospective Blog Due 11:59pm**| 15 March<br>**Sprint Planning** | 16 March<br>**Standup<br>Due 11:59pm**
+**Spring<br>Break** | | 20 March<br>**No Class<br>Spring Break** | | 22 March<br>**No Class<br>Spring Break**
+**Week 10** | 26 March<br>**Standup<br>Due 11:59pm** | 27 March<br>Teams working | 28 March<br>**Standup<br>Due 11:59pm** | 29 March<br>Teams working | 30 March<br>**Standup<br>Due 11:59pm**
+**Week 11** | 2 April<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 3 April<br>**Sprint Review, Retrospective**  | 4 April<br>**Sprint Retrospective Blog Due 11:59pm**| 5 April<br>**Sprint Planning** | 6 April<br>**Standup<br>Due 11:59pm**
+**Week 12** | 9 April<br>**Standup<br>Due 11:59pm** | 10 April<br>Teams working | 11 April<br>**Standup<br>Due 11:59pm** | 12 April<br>Teams working | 13 April<br>**Standup<br>Due 11:59pm**
+**Week 13** | 16 April<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 17 April<br>**Sprint Review, Retrospective** | 18 April<br>**Sprint Retrospective Blog Due 11:59pm** | 19 April<br>**Sprint Planning** | 20 April<br>**Standup<br>Due 11:59pm**
+**Week 14** | 23 April<br>**Standup<br>Due 11:59pm**| 24 April<br>Teams working | 25 April<br>**Standup<br>Due 11:59pm**| 26 April<br>Teams working | 27 April<br>**Standup<br>Due 11:59pm**
+**Week 15** | 30 April <br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 1 May <br>**Sprint Review, Retrospective** | 2 May<br>**Sprint Retrospective Blog Due 11:59pm** | 3 May<br>**Sprint Planning**<br>for Final Presentations | 4 May<br>**Standup<br>Due 11:59pm**
+**Week 16/<br>Final Exams** | 7 May<br>**Standup<br>Due 11:59pm**| 8 May<br>Last Day of Classes<br><hr>Teams working on Presentations | 9 May<br>**Standup<br>Due 11:59pm**| 10 May<br>**12:30-3:30pm<br>Final Presentations** | 11 May <br>**Team Evaluation Due 11:59pm**
 
-##Copyright and License
-####&copy; 2017 Karl R. Wurst, Worcester State University
+## Copyright and License
+#### &copy; 2018 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
