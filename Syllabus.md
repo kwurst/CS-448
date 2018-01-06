@@ -1,7 +1,9 @@
-*Version 2018-Spring-0.1, Revised 5 January 2018*
-### *CS-448 02 --- Spring 2018*
+*Version 2018-Spring-0.2-DRAFT, Revised 6 January 2018*
+### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
+
+# THIS IS A DRAFT SYLLABUS. IT IS SUBJECT TO CHANGE UNTIL THE FIRST DAY OF CLASS (16 January 2017)
 
 ## Credit and Contact Hours
 3 credits<br>
@@ -188,33 +190,52 @@ Upon successful completion of the Major in Computer Science, students will be ab
 * Collaboration tools
 
 ## Grading Policies
-Your grade in the course will be determined as follows:
+I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
+
+As an example, imagine a course with two major learning outcomes: X and Y. It is widely considered that a course grade of C indicates that a student is minimally competent in achieving the course outcomes. However, if the student were to receive a grade of 100 for outcome X, and a grade of 40 for outcome Y, the student would still have a 70 (C-) average for the course. Yet the student is clearly not competent in outcome Y.
+
+Therefore the grading in this course will be handled in a different manner:
+
+* All assignments will be graded on an ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification. 
+* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in an ***Acceptable*** manner to earn a passing course grade (D).
+* Higher passing grades (A, B, C) can be earned by completing more assignments and/or assignments that show higher-level thinking and learning skills.
+
+### Assignment Grading
+
+* All assignments in this course will be graded exclusively on an ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis. 
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be considered *Meets Specification*.** 
+* Failing to meet *any part* of the specification will result in the work being *Does Not Yet Meet Specification*. 
+* There will be no partial credit given. 
+* If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
+* It will be possible to drop a limited number of assignments with *Does Not Yet Meet Specification* grades (see *Tokens* below).
+* It will be possible to revise and resubmit a limited number of assignments with *Does Not Yet Meet Specification* grades (see *Revision and Resubmission of Work* below).
+
+### Course Grade Determination
+
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner.
+
+#### Base Grade
+
+Assignment | Earn Base<br>Grade A | Earn Base<br>Grade B | Earn Base<br>Grade C | Earn Base<br>Grade D 
+--- | :-: | :-: | :-: | :-:
+CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
+CATME Rater Practice | &#10004; | &#10004; | &#10004; | &#10004;
+Team Tools/Learning Angular Project | &#10004; | &#10004; | &#10004; | &#10004;
+Attendance and Participation (In-Class)<br>&nbsp;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;Sprint Planning&nbsp;(out of 7)<br>&nbsp;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
+Attendance and Participation (Online)<br>&nbsp;Standups&nbsp;(out of 33)<br>&nbsp;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
+Blog Posts<br>&nbsp;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;Professionalism Reading | <br>6<br>11 | <br>6<br>8 | <br>6<br>5 | <br>5<br>2
+Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
+
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 8 "Professionalism Reading Blog Posts" that meet specification, you will earn a C grade.
+* **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
+
+#### Plus or Minus Grade Modifiers
+
+
+*Note:*
  
-Assignment Category | Percentage
----|:-:
-Attendance and Participation in Class (Team Status, Planning, Estimation, and Review Meetings) | 25%
-Peer Reviews | 20%
-Blog posts with Reflections on Learning and Work Products | 25%
-Blog posts on Professionalism Readings | 15%
-Final Group Presentation  | 15%
- 
-## Grading Scale
-Percentage | Letter Grade 
----|:-:
-93-100% | A
-90-93% | A-
-87-90% | B+
-83-87% | B
-80-83% | B-
-77-80% | C+
-73-77% | C
-70-73% | C-
-67-70% | D+
-63-67% | D
-60-63% | D-
-less than 60% | E
- 
-Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
+* The limits for the number of assignments to be submitted in a single week still apply.
+* WSU has no A+ grade.
 
 ## Attendance and Participation in Class (Team Status, Planning, Estimation, and Review Meetings)
 
