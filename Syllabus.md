@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.7-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.8-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -21,8 +21,8 @@ TR 11:30am-12:45pm<br>
 ST 107
 
 ## It's in the Syllabus
-<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
+<img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
+<a href="http://www.phdcomics.com/comics.php?f=1583">http://www.phdcomics.com/comics.php?f=1583</a>
 
 ## Textbooks
 
@@ -365,7 +365,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br><a href=http://www.phdcomics.com/comics.php?f=1795>http://www.phdcomics.com/comics.php?f=1795</a>
+<img src="http://www.phdcomics.com/comics/archive/phd042215s.gif"><br><a href="http://www.phdcomics.com/comics.php?f=1795">http://www.phdcomics.com/comics.php?f=1795</a>
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
