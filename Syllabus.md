@@ -376,7 +376,7 @@ If you are struggling with the material or a project please see me as soon as po
 
 By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
 
-I am here to help you understand the material and be successful in the course.
+**Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
 ## Contacting Me
 You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-8728), or see me in my office. My office hours are listed on the schedule on my web page ([http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/)) or you may make an appointment for a mutually convenient time.
@@ -400,11 +400,14 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Expect to spend at least 9 hours of work per week on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
-## Americans with Disabilities Act
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with the Disability Services Office (DSO). Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. The DSO is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (dso@worcester.edu).  
+## Accessibility Statement
+Worcester State University is committed to providing reasonable academic accommodations for all students with disabilities.  If you have a disability and are concerned about the format or requirements of this course, please meet with me to discuss ways to ensure full participation.  Students must be registered with Student Accessibility Services in order to receive academic accommodations.  Student Accessibility Services is located in the Administration Building, Room 131, and can be reached by phone (508/929-8733 or email (sas@worcester.edu).  Please notify me if you need this syllabus in an alternative format.
 
 ## Tutoring Services/Academic Success Center
 Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
+
+## The Math Center
+The Math Center provides free assistance to students in Mathematics.  It is located on the first floor of the Sullivan Academic Building, S143.
 
 ## The Writing Center
 The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center’s hours and the Center’s Online Writing Lab, visit their website at [www.worcester.edu/writing]()
