@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.5-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.6-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -26,7 +26,7 @@ ST 107
 
 ## Textbooks
 
-<a href="https://commons.wikimedia.org/wiki/File:OER_Logo.svg#/media/File:OER_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OER_Logo.svg/1200px-OER_Logo.svg.png" alt="OER Logo.svg" width="600"></a><br>By <span lang="en">Unknown</span><a href="https://www.wikidata.org/wiki/Q4233718" title="wikidata:Q4233718"></a> - Unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=18856750">Link</a>
+<a href="https://commons.wikimedia.org/wiki/File:OER_Logo.svg#/media/File:OER_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OER_Logo.svg/1200px-OER_Logo.svg.png" alt="OER Logo.svg" width="300"></a><br>&nbsp;(Image by <span lang="en">Unknown</span><a href="https://www.wikidata.org/wiki/Q4233718" title="wikidata:Q4233718"></a> - Unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=18856750">Link</a>)
 
 **Only FREE Open Educational Resources will be used for this Course/Section.**
 
