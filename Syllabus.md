@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.2-DRAFT, Revised 6 January 2018*
+*Version 2018-Spring-0.3-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -25,13 +25,22 @@ ST 107
 <a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
 
 ## Textbooks
+
+<a href="https://commons.wikimedia.org/wiki/File:OER_Logo.svg#/media/File:OER_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OER_Logo.svg/1200px-OER_Logo.svg.png" alt="OER Logo.svg" width="600"></a><br>By <span lang="en">Unknown</span><a href="https://www.wikidata.org/wiki/Q4233718" title="wikidata:Q4233718"></a> - Unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=18856750">Link</a>
+
+**Only FREE Open Educational Resources will be used for this Course/Section.**
+
+Access information is given below:
+
 <table cellpadding="1" border="0">
 <tbody>
 <tr>
 <td>
-<p><img src="http://cs.worcester.edu/kwurst/img/0134052501.jpg" width="110" /></p>
+<p><img src="http://cs.worcester.edu/kwurst/img/9780596518387.gif" width="110" /></p>
 </td>
-<td><em>The Software Craftsman: Professionalism, Pragmatism, Pride</em><br>Sandro Mancuso <br /> Prentice Hall, 2015<br>ISBN-13: 9780134052502<br><a target="_blank" href="http://www.pearsonhighered.com/educator/product/Software-Craftsman-The-Professionalism-Pragmatism-Pride/9780134052502.page">Website</a><br></td>
+<td><em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em><br> Dave Hoover and Adewale Oshineye<br />O'Reilly Media, 2009<br>ISBN-13: 9780596518387<br>
+<a target="_blank" href="http://shop.oreilly.com/product/9780596518387.do">Website</a><br>
+<a target="_blank" href="http://chimera.labs.oreilly.com/books/1234000001813/index.html">Read the whole text online here</a><br></td>
 </tr>
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
