@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.3-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.4-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -60,17 +60,19 @@ In addition to the textbook, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
-    1.	**Github** - We will use Github to host our code.
-    2.	**OpenMRS.org** - We will be working on the OpenMRS project, and you will need access to their site and their community tools.
-    3.	**WSU Gmail** - You must check your WSU Gmail account on a regular basis. We will be using a class Listserv to communicate, and you will be subscribing to OpenMRS mailing lists.
-    4.	**Wordpress or other blogging platform** - You will be keeping a blog about your learning in this course.
-    5.	**Tutorials and articles** - I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+    1.	**Github** &mdash; We will use Github to host our code.
+    2.	**Slack** &mdash; We will use Slack for team communication, including standup meetings and reminders of assignment due dates.
+    3. **CATME** &mdash; We will use CATEME for team formation and team performance evaluation.
+    4. **Trello** &mdash; We will use Trello for teams to manage their sprints and tasks.
+    5. **JIRA** &mdash; We will be using AMPATH's JIRA instance for issue tracking and communicating with AMPATH developers about issues.
+    6. **AMPATH Build, Test, and Database Servers** &mdash; We will need to connect AMPATH's servers for building and testing our code.
+    7.	**Wordpress or other blogging platform** &mdash; You will be keeping a blog about your learning in this course.
+    8.	**Tutorials and articles** &mdash; I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
-## <a name="acm-student-membership"></a>ACM Student Membership
+## ACM Student Membership
 It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>.
 
 The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
-
 
 ## Where Does This Course Lead?
 * Your professional career
