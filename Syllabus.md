@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.8-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.9-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -347,9 +347,29 @@ All work will be submitted electronically through a variety of tools. The due da
 **Please do not submit assignments to me via email.** It is difficult for me to keep track of them and I often fail to remember that they are in my mailbox when it comes time to grade the assignment.
 
 ## Late Submissions
-Late assignments will lose 10% of the maximum points per 24-hour period.
+Late work will not be accepted. (See *Tokens* below.)
 
-***More importantly, your fellow teammates will be relying on you to complete your assigned tasks in a timely fashion, so that they can complete their own. You should be behaving professionally, living up to the group’s expectations and enabling others to do the same.***
+## Revision and Resubmission of Work
+Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
+
+* <em>Apprenticeship Patterns</a> Chapter 1 Blog Post
+* Individual <em>Apprenticeship Pattern</a> Blog Post
+* Sprint Retrospective Blog Post
+
+## Tokens
+Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+
+Each token can be used to:
+
+* replace a single missed class session (up to a maximum of 3 missed class sessions)
+* turn in an assignment late by 24 hours
+* turn in a second Individual <em>Apprenticeship Pattern</a> Blog Post  in an a single week
+* revise and resubmit an assignment (up to a maximum of 2) that was marked **Does Not Yet Meet Specification**. Any work to be revised and resubmitted must have been submitted by the original due date.
+* Tokens cannot be used for any other purpose and unused tokens remaining at the end of the semester cannot be used to change your final course grade.
+
+### Token Accounting
+* Unused tokens will be kept track of in the Blackboard *My Grades* area.
+* Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
 
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
