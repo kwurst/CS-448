@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.6-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.7-DRAFT, Revised 7 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -207,136 +207,139 @@ As an example, imagine a course with two major learning outcomes: X and Y. It is
 
 Therefore the grading in this course will be handled in a different manner:
 
-* All assignments will be graded on an ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification. 
-* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in an ***Acceptable*** manner to earn a passing course grade (D).
+* All assignments will be graded on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification. 
+* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in a ***Meets Specification*** manner to earn a passing course grade (D).
 * Higher passing grades (A, B, C) can be earned by completing more assignments and/or assignments that show higher-level thinking and learning skills.
 
 ### Assignment Grading
 
-* All assignments in this course will be graded exclusively on an ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis. 
-* **For each assignment, you will be given a detailed specification explaining what is required for the work to be considered *Meets Specification*.** 
-* Failing to meet *any part* of the specification will result in the work being *Does Not Yet Meet Specification*. 
+* All assignments in this course will be graded exclusively on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis. 
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be marked *Meets Specification*.** 
+* Failing to meet ***any part*** of the specification will result in the work being marked **Does Not Yet Meet Specification**. 
 * There will be no partial credit given. 
 * If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
-* It will be possible to drop a limited number of assignments with *Does Not Yet Meet Specification* grades (see *Tokens* below).
-* It will be possible to revise and resubmit a limited number of assignments with *Does Not Yet Meet Specification* grades (see *Revision and Resubmission of Work* below).
+* It will be possible to revise and resubmit a limited number of assignments with **Does Not Yet Meet Specification** grades (see *Revision and Resubmission of Work* below).
 
 ### Course Grade Determination
 
-Your grade for the course will be determined by which assignments and/or how many assignments you complete in an acceptable manner.
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an Meets Specification manner.
 
 #### Base Grade
 
-Assignment | Earn Base<br>Grade A | Earn Base<br>Grade B | Earn Base<br>Grade C | Earn Base<br>Grade D 
+Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
 CATME Rater Practice | &#10004; | &#10004; | &#10004; | &#10004;
 Team Tools/Learning Angular Project | &#10004; | &#10004; | &#10004; | &#10004;
 Attendance and Participation (In-Class)<br>&nbsp;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;Sprint Planning&nbsp;(out of 7)<br>&nbsp;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
 Attendance and Participation (Online)<br>&nbsp;Standups&nbsp;(out of 33)<br>&nbsp;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
-Blog Posts<br>&nbsp;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;Professionalism Reading | <br>6<br>11 | <br>6<br>8 | <br>6<br>5 | <br>5<br>2
+Blog Posts<br>&nbsp;<em>Apprenticeship Patterns</em> &mdash; Chapter 1<br>&nbsp;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>6<br>10 | <br>&#10004;<br>6<br>7 | <br>&#10004;<br>6<br>4 | <br>&#10004;<br>5<br>1
 Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
-* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 8 "Professionalism Reading Blog Posts" that meet specification, you will earn a C grade.
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 7 Individual <em>Apprenticeship Pattern</em> Blog Posts that meet specification, you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
 
 #### Plus or Minus Grade Modifiers
 
+* You will have a ***plus*** modifier applied to your base grade if complete one more Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
+* You will have a ***minus*** modifier applied to your base grade if complete one fewer Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
 
 *Note:*
  
 * The limits for the number of assignments to be submitted in a single week still apply.
 * WSU has no A+ grade.
 
-## Attendance and Participation in Class (Team Status, Planning, Estimation, and Review Meetings)
+## CATME Team Formation Survey
+We will be using [CATME SMARTER Teamwork](https://info.catme.org/about/) to form teams and to assess team performance.
 
-You must attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. Your attendance and participation in class will be scored as follows:
+Our first use of CATME will be to use the CATME Team-Maker to form teams for the semester based on criteria collected in the Team Formation Survey. 
 
- | Meets Expectations | Needs Improvement | Inadequate
- --- | --- | --- | ---
- **Attendance** | Present, arrived on time. (1 pt.) | Present but arrived late. (1/2 pt.) | Absent, without excuse. (0 pts.) 
- **Participation** | Full participation in group activities. (1 pt.) | Partial participation in group activities. (1/2 pt.) | Not participating in group activities. (0 pts.) 
+Everyone must complete the Team Formation Survey by the due date/time.
 
-### Excused Absences
+## CATME Rater Practice
+Our main use of CATME will be to evaluate team performance, and use those evaluations to normalize expectations for team participation and to improve team performance.
 
-An excused absence is determined by the instructor in consulatation with the student's team. 
+In order to help teams normalize their expectations for team participation, everyone will take part in the CATME Rater Pratice. In this way, everyone will learn to apply the same ratings for the same behaviors and level of participation.
 
-Ideally, it will be arranged in advance, with the student providing notification to his/her team along with any materials the student was to provide to the team in class. Otherwise, the instructor and team must be notified of the absence and the reason as soon as possible, preferrably by the end of the day. 
+## Team Tools/Learning Angular Project
+In the first few weeks of the semester, we will learn how to use the tools that we will be using to manage the team and the project. We will also need to learn or review the basics or using the Angular framework for web applications.
 
-The excused absence will not count for or against your Attendance and Participation grade - instead the Attendance and Participation grade will be calculated out of one fewer class meetings. An excused absence is indicated by the symbol <img src=exempt.png> in the Blackboard Gradebook.
+To do this, each team will build a small Angular web application, using the team tools we will be using for the rest of the semester.
 
-## Peer Reviews
+## Attendance and Participation (In-Class)
+You are expected to attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. 
 
-Teamwork will be evaluated by peer review. You will get 1 point for completing your peer review document, reviewing your team's performance, each week.
+For your Attendance and Participation for a particular class to be marked ***Meets Specification*** you are expected to:
 
-Below are the characteristics that will be used to assess teamwork. At the end of each sprint, each team member will evaluate each other team member in the following areas using a 3 point scale.
+* Be present.
+* Have arrived on time.
+* Participate fully in team activities.
 
-<table>
-<tr>
-<td align="center"><b>Attendance</td><td align="center"><b>Communication</td><td align="center"><b>Cooperation</td><td align="center"><b>Dependability</td><td align="center"><b>Attitude</td></tr>
-<tr>
-<td> <ul><li>Makes all meetings<li>Is on time for meetings<li>Participates in meetings </td><td><ul><li>Timely<li>Clear<li>Professional</td><td><ul><li>Willingness to help others<li>Asks for help when needed<li>Willingness to receive help</td><td><ul><li>Takes on responsibilities<li>Meets responsibilities</td><td><ul><li>Enthusiastic<li>Encouraging to others</td>
-</tr>
-</table>
+### Preliminary Classes
+For the first five classses, we will be learning team tools and the Angular framework.
+### Sprint Planning
+The class at the beginning of each two-week sprint will be used for the team to plan the upcoming sprint.
+### Sprint Review and Retrospective
+The class at the end of each two-week sprint will be used to review completed work, evaluate team performance, and decide on changes to make to team process.
+### Work Classes
+The two classes in the middle of each two-week sprint will be used as a time for team members to meet in person and work in small groups.
 
-Points | Description
---- | ---
-3 | Excellent
-2 | Acceptable
-1 | Needs improvement
+**Remember that you are expected to spend 6 hours a week outside of class time working on your team-assigned tasks for the sprint.**
 
-### Improvement plans
+## Attendance and Participation (Online)
+### Standups
+On Mondays, Wednesdays, and Fridays during sprints, you are expected to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having.
 
-If a team member receives an average of less than 2 in any area, the
-instructor will review the evaluation with the team. At the instructor's
-discretion, the instructor will help the team to create an improvement
-plan. The purpose of the plan is to create a support system to help the
-team member improve their ratings in the future.
+These standup meetings will be asynchronous and online. This means that you can give your status report at anytime during the day on which the standup is due. You will give your status report through Slack.
+### CATME Team Evaluations
+Team performance will be measured by CATME Team Evaluations. These evaluations will be used to improve team performance and functioning.
 
-The first time an improvement plan is necessary, no penalty is incurred.
-Each subsequent time an improvement plan is necessary, the peer review
-score for the team member who needs improvement is as shown in the
-following table.
+There will be a CATME Team Evaluation at the end of each sprint, before the Sprint Retrospective, so that the members of the team can incorporate the results of the evaluation into the decisions made during the retrospective.
 
-Condition | Category score
---- | ---  
-First improvement plan |    100%
-Second improvement plan |  85%
-Third improvement plan |   70%
-Fourth improvement plan |  0%
+## Blog Posts
 
-## Blog
-
-You will be required to keep a blog about your part of the project and your experiences in this class. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/) (if the site redesign is complete before the end of the semster.) 
+You will be required to keep a blog about your part of the project and your experiences in this class, as well as summaries and reflections on the readings. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/). 
 
 Your blog posts will be about your learning in the class, the work and work products you are producing, the readings, etc.
 
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
 
-### Blog Posts with Reflections on Learning and Work Products
-Your blog posts will be about your learning in the class, the work and work products you are producing, etc.
+### Sprint Retrospective Blog Posts
+At the end of each sprint, you will post a Sprint Retrospective blog post about your learning in the class, the work and work products you are producing, etc.
 
-These blog posts will be scored as follows:
+For your Sprint Retrospective Blog Posts to be marked ***Meets Specification*** your blog post is expected to contain:
 
-Excellent (4) |	Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
----|---|---|---|---
-Blog post contains reflection on what the student learned from the week's activities, how the student would proceed differently in light of this, and how what was learned might be applied in other situations. Includes all material from level 3 as well. *Post is labeled with the week number, e.g. Week 1.* | Blog post contains an explanation of why the student took the steps s/he did during the week. Describes what was tried, what succeeded and what failed, and how the student chose the course of action. Includes references to where information/help was found. Includes all material from level 2 as well. *Post is labeled with the week number, e.g. Week 1.* | Blog post contains detailed description of what was done during the week. Provides a list of steps that could be followed by another person to do the same thing (if applicable). *Post is labeled with the week number, e.g. Week 1.* | Blog post contains only a cursory description of what was done during the week. *Post is labeled with the week number, e.g. Week 1.* | No blog post posted for the week, *or is not labeled with the week number.* 
+* A reflection on what you learned from the week's activities, how you would proceed differently in light of this, and how what was learned might be applied in other situations.
+* A detailed description of what was done during the week, an explanation of why you took the steps you did during the week. Describes what was tried, what succeeded and what failed, and how you chose the course of action.
+* Includes references to where information/help was found. 
+* A label for the Sprint Number (e.g. Sprint-1). (See the Schedule at the end of this syllabus for sprint numbers.)
+* A list of steps that could be followed by another person to do the same thing (if applicable).
+* 500-750 words.
 
-### Blog Posts on Professionalism Readings
-Your blog posts will be about your reflections on the readings in the two books *The Clean Coder: A Code of Conduct for Professional Programmers* by Robert C. Martin, and 
-*The Software Craftsman: Professionalism, Pragmatism, Pride* by Sandro Mancuso. You will read two chapters a week and write a single, relatively short blog post about those chapters. 
+### <em>Apprenticeship Patterns</em> Chapter 1
+Everyone must read and post about Chapter 1 of <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye.
 
-The posts are intended to be your reaction to the readings, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the readings? Have the readings caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why?
+For your <em>Apprenticeship Patterns</em> Chapter 1 Blog Post to be marked ***Meets Specification*** your blog post is expected to contain:
 
-These blog posts will be scored as follows:
+* Your reaction to the reading, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the reading? Has the reading caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why?
+* 450-600 words.
 
-Good (3) | Needs Improvement (2) | Inadequate (1) | Missing (0)
----|---|---|---|---
-Blog post contains a *short* summary of the assigned chapters and comments about the material. The comments are backed up by personal reflections on the material including how the material affected the student and why. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains a *short* summary of the assigned chapters and a comment about the material, but the comment is not backed up by any personal reflection on the material. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | Blog post contains only a summary of the assigned chapters for the week. *Post is labeled with the book title and chapter numbers., e.g. The Clean Coder, Chapters 1 & 2.* | No blog post posted for the assigned chapters for the week, *or is not labeled with the book title and chapter numbers.* 
+### Individual <em>Apprenticeship Patterns</em> Blog Posts
+Your Individual <em>Apprenticeship Patterns</em> Blog Posts will be about your reflections on the readings in the book <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye.
+
+Each blog post will be written about a *single* pattern from the book. There are [35 patterns in the book](http://chimera.labs.oreilly.com/books/1234000001813/apa.html) divided among Chapters 2-6. You do not need to read all the patterns, and you do not need to read them in order. You may select whichever patterns interest you.
+
+For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***Meets Specification*** your blog post is expected to contain:
+
+* A *short* summary of the pattern.
+* Your reaction to the pattern. What did you find interesting, useful, thought-provoking about the pattern? Has the pattern caused you to change the way you think about your intended profession, or how you think you will work? Do you disagree with something in the paterns? And why? 
+* The tag for the week in which the post was made, E.g. Week-1. (See the Schedule at the end of this syllabus for week numbers.)
+* 350-450 words.
+* I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.** 
 
 ## Final Presentation
-Final presentations by teams on their work and experience will be given during our scheduled final exam period – Tursday, 10 May 2018 from 12:30-3:30pm
+Final presentations by teams on their work and experience will be given during our scheduled final exam period &mdash; Thursday, 10 May 2018 from 12:30-3:30pm
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
