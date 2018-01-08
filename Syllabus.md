@@ -3,7 +3,7 @@
 
 # Software Development Capstone
 
-# THIS IS A DRAFT SYLLABUS. IT IS SUBJECT TO CHANGE UNTIL THE FIRST DAY OF CLASS (16 January 2017)
+# THIS IS A DRAFT SYLLABUS. IT IS SUBJECT TO CHANGE UNTIL THE FIRST DAY OF CLASS (16 January 2018)
 
 ## Credit and Contact Hours
 3 credits<br>
@@ -454,4 +454,4 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Copyright and License
 #### &copy; 2018 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
