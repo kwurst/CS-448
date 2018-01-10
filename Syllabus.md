@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.9-DRAFT, Revised 7 January 2018*
+*Version 2018-Spring-0.10-DRAFT, Revised 10 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -226,14 +226,14 @@ Your grade for the course will be determined by which assignments and/or how man
 
 #### Base Grade
 
-Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
+Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
 CATME Rater Practice | &#10004; | &#10004; | &#10004; | &#10004;
 Team Tools/Learning Angular Project | &#10004; | &#10004; | &#10004; | &#10004;
-Attendance and Participation (In-Class)<br>&nbsp;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;Sprint Planning&nbsp;(out of 7)<br>&nbsp;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
-Attendance and Participation (Online)<br>&nbsp;Standups&nbsp;(out of 33)<br>&nbsp;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
-Blog Posts<br>&nbsp;<em>Apprenticeship Patterns</em> &mdash; Chapter 1<br>&nbsp;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>6<br>10 | <br>&#10004;<br>6<br>7 | <br>&#10004;<br>6<br>4 | <br>&#10004;<br>5<br>1
+Attendance and Participation (In-Class)<br>&nbsp;&nbsp;&mdash;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;&nbsp;&mdash;Sprint Planning&nbsp;(out of 7)<br>&nbsp;&nbsp;&mdash;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
+Attendance and Participation (Online)<br>&nbsp;&nbsp;&mdash;Standups&nbsp;(out of 33)<br>&nbsp;&nbsp;&mdash;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
+Blog Posts<br>&nbsp;&nbsp;&mdash;<em>Apprenticeship Patterns</em> &mdash; Chapter 1<br>&nbsp;&nbsp;&mdash;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>6<br>10 | <br>&#10004;<br>6<br>7 | <br>&#10004;<br>6<br>4 | <br>&#10004;<br>5<br>1
 Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 7 Individual <em>Apprenticeship Pattern</em> Blog Posts that meet specification, you will earn a C grade.
