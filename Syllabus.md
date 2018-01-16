@@ -1,4 +1,4 @@
-*Version 2018-Spring-0.10-DRAFT, Revised 10 January 2018*
+*Version 2018-Spring-0.11-DRAFT, Revised 15 January 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -229,7 +229,7 @@ Your grade for the course will be determined by which assignments and/or how man
 Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
-CATME Rater Practice | &#10004; | &#10004; | &#10004; | &#10004;
+CATME Rater Practice Average Score | 25 | 20 | 15 | 10
 Team Tools/Learning Angular Project | &#10004; | &#10004; | &#10004; | &#10004;
 Attendance and Participation (In-Class)<br>&nbsp;&nbsp;&mdash;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;&nbsp;&mdash;Sprint Planning&nbsp;(out of 7)<br>&nbsp;&nbsp;&mdash;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
 Attendance and Participation (Online)<br>&nbsp;&nbsp;&mdash;Standups&nbsp;(out of 33)<br>&nbsp;&nbsp;&mdash;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
@@ -357,7 +357,7 @@ Because your first attempt at producing acceptable work for a new category of as
 * Sprint Retrospective Blog Post
 
 ## Tokens
-Each student will be able to earn up to 5 tokens in the first week. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+Each student will be able to earn up to 5 tokens over the course of the semester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
 
 Each token can be used to:
 
