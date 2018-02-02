@@ -1,4 +1,4 @@
-*Version 2018-Spring-1.0-Final, Revised 23 January 2018*
+*Version 2018-Spring-1.1-Final, Revised 2 February 2018*
 ### *CS-448 02 &mdash; Spring 2018*
 
 # Software Development Capstone
@@ -38,7 +38,7 @@ Access information is given below:
 </td>
 <td><em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em><br> Dave Hoover and Adewale Oshineye<br />O'Reilly Media, 2009<br>ISBN-13: 9780596518387<br>
 <a target="_blank" href="http://shop.oreilly.com/product/9780596518387.do">Website</a><br>
-<a target="_blank" href="http://chimera.labs.oreilly.com/books/1234000001813/index.html">Read the whole text online here</a><br></td>
+<a target="_blank" href="https://www.safaribooksonline.com/library/view/apprenticeship-patterns/9780596806842/">Read the whole text online here</a><br></td>
 </tr>
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
