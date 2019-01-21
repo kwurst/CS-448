@@ -1,5 +1,5 @@
-*Version 2018-Spring-1.1-Final, Revised 2 February 2018*
-### *CS-448 02 &mdash; Spring 2018*
+*Version 2019-Spring-1.1, Revised 21 January 2019*
+### *CS-448 01, 02 &mdash; Spring 2019*
 
 # Software Development Capstone
 
@@ -15,12 +15,17 @@ Dr. Karl R. Wurst<br>
 See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for contact information and schedule.
 
 ## Meeting Times and Locations
-TR 11:30am-12:45pm<br>
-ST 107
+Section | Day/Time | Room
+:-: | :-: | :-:01 | MW 2:00-3:15pm | Sullivan 105
+02 | TR 11:30am-12:45pm | Sullivan 105
 
 ## It's in the Syllabus
 <img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
 <a href="http://www.phdcomics.com/comics.php?f=1583">http://www.phdcomics.com/comics.php?f=1583</a>
+
+Of course, not *everything* is in the syllabus, but many things are.
+
+If you have a question, please check the syllabus first, and then ask if you can't find the answer.
 
 ## Textbooks
 
@@ -38,7 +43,7 @@ Access information is given below:
 </td>
 <td><em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em><br> Dave Hoover and Adewale Oshineye<br />O'Reilly Media, 2009<br>ISBN-13: 9780596518387<br>
 <a target="_blank" href="http://shop.oreilly.com/product/9780596518387.do">Website</a><br>
-<a target="_blank" href="https://www.safaribooksonline.com/library/view/apprenticeship-patterns/9780596806842/">Read the whole text online here</a><br></td>
+<a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/#toc-start">Read the whole text online here</a><br></td>
 </tr>
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
@@ -58,14 +63,13 @@ In addition to the textbook, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
-    1.	**Github** &mdash; We will use Github to host our code.
+    1.	**Github/GitLab** &mdash; We will use Github or GitLab to host our code.
     2.	**Slack** &mdash; We will use Slack for team communication, including standup meetings and reminders of assignment due dates.
-    3. **CATME** &mdash; We will use CATEME for team formation and team performance evaluation.
+    3. **CATME** &mdash; We will use CATME for team formation and team performance evaluation.
     4. **Trello** &mdash; We will use Trello for teams to manage their sprints and tasks.
-    5. **JIRA** &mdash; We will be using AMPATH's JIRA instance for issue tracking and communicating with AMPATH developers about issues.
-    6. **AMPATH Build, Test, and Database Servers** &mdash; We will need to connect AMPATH's servers for building and testing our code.
     7.	**Wordpress or other blogging platform** &mdash; You will be keeping a blog about your learning in this course.
     8.	**Tutorials and articles** &mdash; I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
+    9. **Project-Specific Tools** &mdash; Depending on what project you are working on, you will need access to other tools used by that project.
 
 ## ACM Student Membership
 It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>.
@@ -147,7 +151,11 @@ Upon successful completion of this course, students will be able to:
 
 ## Civic Learning, Engagement Required (CLER) Course
 
-In this course we will be helping to write code for [AMPATH](http://www.ampathkenya.org/), a consortium of health centers working with the Kenyan government to provide healthcare in Kenya. 
+In this course we will be helping to develop software for two humanitarian organizations:
+
+* [AMPATH](http://www.ampathkenya.org/), a consortium of health centers working with the Kenyan government to provide healthcare in Kenya
+* LibreFoodPantry, a Humanitarian Free and Open Source Software (HFOSS) project developing software to help manage food pantries
+
 
 ## LASC Student Learning Outcomes
 
@@ -227,11 +235,11 @@ Your grade for the course will be determined by which assignments and/or how man
 Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
-CATME Rater Practice High Score | 20 | 15 | 10 | 10
-Team Tools/Learning Angular Project | &#10004; | &#10004; | &#10004; | &#10004;
-Attendance and Participation (In-Class)<br>&nbsp;&nbsp;&mdash;Preliminary Classes&nbsp;(out of 5)<br>&nbsp;&nbsp;&mdash;Sprint Planning&nbsp;(out of 7)<br>&nbsp;&nbsp;&mdash;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Work Classes&nbsp;(out of 11) | <br>5<br>7<br>6<br>10 | <br>5<br>7<br>6<br>8 | <br>5<br>7<br>6<br>6 | <br>5<br>6<br>5<br>4
-Attendance and Participation (Online)<br>&nbsp;&nbsp;&mdash;Standups&nbsp;(out of 33)<br>&nbsp;&nbsp;&mdash;CATME Team Evaluations&nbsp;(out of 7) | <br>33<br>7 | <br>33<br>7 | <br>33<br>7 | <br>32<br>6
-Blog Posts<br>&nbsp;&nbsp;&mdash;<em>Apprenticeship Patterns</em> &mdash; Chapter 1<br>&nbsp;&nbsp;&mdash;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>6<br>10 | <br>&#10004;<br>6<br>7 | <br>&#10004;<br>6<br>4 | <br>&#10004;<br>5<br>1
+CATME Rater Practice High Score | 15 | 10 | 10 | 5
+Team Tools/Domain Familiarization | &#10004; | &#10004; | &#10004; | &#10004;
+Attendance and Participation (In-Class)<br>&nbsp;&nbsp;&mdash;Preliminary Classes&nbsp;(out of 4)<br>&nbsp;&nbsp;&mdash;Sprint Planning&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Work Classes&nbsp;(out of 12) | <br>4<br>6<br>6<br>11 | <br>4<br>6<br>6<br>8 | <br>4<br>6<br>6<br>5 | <br>4<br>5<br>5<br>2
+Attendance and Participation (Online)<br>&nbsp;&nbsp;&mdash;Standups&nbsp;(out of 18)<br>&nbsp;&nbsp;&mdash;CATME Team Evaluations&nbsp;(out of 6) | <br>18<br>6 | <br>17<br>6 | <br>16<br>6 | <br>15<br>5
+Blog Posts<br>&nbsp;&nbsp;&mdash;<em>Apprenticeship Patterns</em> &mdash; Chapter 1, and Chapter 2-6 Introductions<br>&nbsp;&nbsp;&mdash;"Why Doctors Hate Their Computers" article&nbsp;<br>&nbsp;&nbsp;&mdash;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>&#10004;<br>6<br>10 | <br>&#10004;<br>&#10004;<br>6<br>7 | <br>&#10004;<br>&#10004;<br>6<br>4 | <br>&#10004;<br>&#10004;<br>5<br>1
 Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 7 Individual <em>Apprenticeship Pattern</em> Blog Posts that meet specification, you will earn a C grade.
@@ -239,8 +247,8 @@ Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
 #### Plus or Minus Grade Modifiers
 
-* You will have a ***plus*** modifier applied to your base grade if complete one more Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
-* You will have a ***minus*** modifier applied to your base grade if complete one fewer Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
+* You will have a ***plus*** modifier applied to your base grade if you complete one more Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
+* You will have a ***minus*** modifier applied to your base grade if you complete one fewer Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
 
 *Note:*
  
@@ -259,10 +267,8 @@ Our main use of CATME will be to evaluate team performance, and use those evalua
 
 In order to help teams normalize their expectations for team participation, everyone will take part in the CATME Rater Pratice. In this way, everyone will learn to apply the same ratings for the same behaviors and level of participation.
 
-## Team Tools/Learning Angular Project
-In the first few weeks of the semester, we will learn how to use the tools that we will be using to manage the team and the project. We will also need to learn or review the basics or using the Angular framework for web applications.
-
-To do this, each team will build a small Angular web application, using the team tools we will be using for the rest of the semester.
+## Team Tools/Domain Familiarization
+In the first few weeks of the semester, we will learn how to use the tools that we will be using to manage the team and the project. We will also need to learn about the domains of the two projects you will choose from: Electronic Medical Records Systems and Food Banks/Food Pantries.
 
 ## Attendance and Participation (In-Class)
 You are expected to attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. 
@@ -274,7 +280,7 @@ For your Attendance and Participation for a particular class to be marked ***Mee
 * Participate fully in team activities.
 
 ### Preliminary Classes
-For the first five classses, we will be learning team tools and the Angular framework.
+For the first four classses, we will be learning team tools and familiarizing ourselves with the problem domains.
 ### Sprint Planning
 The class at the beginning of each two-week sprint will be used for the team to plan the upcoming sprint.
 ### Sprint Review and Retrospective
@@ -286,7 +292,7 @@ The two classes in the middle of each two-week sprint will be used as a time for
 
 ## Attendance and Participation (Online)
 ### Standups
-On Mondays, Wednesdays, and Fridays during sprints, you are expected to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having.
+On three days during the sprints, you are expected to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. (The days for your standup meetings are determined by which section you are in. See the schedule at the end of the syllabus, or the Google calendar for your section.)
 
 These standup meetings will be asynchronous and online. This means that you can give your status report at anytime during the day on which the standup is due. You will give your status report through Slack.
 ### CATME Team Evaluations
@@ -310,23 +316,24 @@ For your Sprint Retrospective Blog Posts to be marked ***Meets Specification*** 
 
 * A reflection on what you learned from the week's activities, how you would proceed differently in light of this, and how what was learned might be applied in other situations.
 * A detailed description of what was done during the week, an explanation of why you took the steps you did during the week. Describes what was tried, what succeeded and what failed, and how you chose the course of action.
-* Includes references to where information/help was found. 
+* Includes references to where information/help was found.
+* Links to work products you produced during the sprint.
 * A label for the Sprint Number (e.g. Sprint-1). (See the Schedule at the end of this syllabus for sprint numbers.)
 * A list of steps that could be followed by another person to do the same thing (if applicable).
 * 500-750 words.
 
-### <em>Apprenticeship Patterns</em> Chapter 1
-Everyone must read and post about Chapter 1 of <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye.
+### <em>Apprenticeship Patterns</em> Chapter 1 and Chapter 2-6 Introductions
+Everyone must read and post about Chapter 1 of <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye, and the introduction portions of Chapters 2-6.
 
-For your <em>Apprenticeship Patterns</em> Chapter 1 Blog Post to be marked ***Meets Specification*** your blog post is expected to contain:
+For your <em>Apprenticeship Patterns</em> Chapter 1 adn Chapter 2-6 Introductions Blog Post to be marked ***Meets Specification*** your blog post is expected to contain:
 
-* Your reaction to the reading, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the reading? Has the reading caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why?
+* Your reaction to the reading, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the reading? Has the reading caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why? Which chapters seem most relevant to you?
 * 450-600 words.
 
 ### Individual <em>Apprenticeship Patterns</em> Blog Posts
 Your Individual <em>Apprenticeship Patterns</em> Blog Posts will be about your reflections on the readings in the book <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye.
 
-Each blog post will be written about a *single* pattern from the book. There are [35 patterns in the book](http://chimera.labs.oreilly.com/books/1234000001813/apa.html) divided among Chapters 2-6. You do not need to read all the patterns, and you do not need to read them in order. You may select whichever patterns interest you.
+Each blog post will be written about a *single* pattern from the book. There are [35 patterns in the book](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/apa.html) divided among Chapters 2-6. You do not need to read all the patterns, and you do not need to read them in order. You may select whichever patterns interest you.
 
 For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***Meets Specification*** your blog post is expected to contain:
 
@@ -337,7 +344,10 @@ For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***
 * I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.** 
 
 ## Final Presentation
-Final presentations by teams on their work and experience will be given during our scheduled final exam period &mdash; Thursday, 10 May 2018 from 12:30-3:30pm
+Final presentations by teams on their work and experience will be given during our scheduled final exam period:
+
+* Section 01 &mdash; Wednesday, 15 May 2019 &mdash; 12:30-3:30pm
+* Section 02 &mdash; Thursday, 9 May 2019 &mdash; 12:30-3:30pm
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -350,9 +360,9 @@ Late work will not be accepted. (See *Tokens* below.)
 ## Revision and Resubmission of Work
 Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
 
-* <em>Apprenticeship Patterns</a> Chapter 1 Blog Post
-* Individual <em>Apprenticeship Pattern</a> Blog Post
-* Sprint Retrospective Blog Post
+* <em>Apprenticeship Patterns</a> Chapter 1 and Chapter 2-6 Introductions Blog Post
+* Individual <em>Apprenticeship Pattern</a> Blog Posts
+* Sprint Retrospective Blog Posts
 
 ## Tokens
 Each student will be able to earn up to 5 tokens over the course of the semester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
@@ -429,27 +439,48 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
+### Section 01 - MW 2:00-3:15pm
 &nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday
 :-: | :-: | :-: | :-: | :-: | :-:
-**Week 1** | | 16 January<br>Course/Project Introduction<br><hr>**Team Formation Survey Due 11:59pm**| |  18 January<br>Team Process/Tools 
-**Week 2** | | 23 January<br>Development Environment, Learning Angular | | 25 January<br>Version Control, Learning Angular 
-**Week 3** | | 30 January<br>Learning Angular | | 1 February<br>**Sprint 1 Planning** | 2 February<br>**Standup<br>Due 11:59pm**
-**Week 4** | 5 February<br>**Standup<br>Due 11:59pm**| 6 February<br>Teams working | 7 February<br>**Standup<br>Due 11:59pm** | 8 February<br>Teams working | 9 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 12 February<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 13 February<br>**Sprint 1 Review, Retrospective** | 14 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 15 February<br>**Sprint 2 Planning** | 16 February<br>**Standup<br>Due 11:59pm**
-**Week 6** |  19 February<br>**Standup<br>Due 11:59pm** | 20 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working | 21 February<br>**Standup<br>Due 11:59pm** | 22 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working | 23 February<br>**Standup<br>Due 11:59pm** 
-**Week 7** | 26 February<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 27 February<br>**Sprint 2 Review, Retrospective** | 28 February<br>**Sprint 2 Retrospective Blog Due 11:59pm**| 1 March<br>**Sprint 3 Planning** | 2 March<br>**Standup<br>Due 11:59pm** 
-**Week 8** | 5 March<br>**Standup<br>Due 11:59pm** | 6 March<br>Teams working | 7 March<br>**Standup<br>Due 11:59pm** | 8 March<br>Teams working | 9 March<br>**Standup<br>Due 11:59pm**
-**Week 9** | 12 March<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 13 March<br>**Sprint 3 Review, Retrospective** | 14 March<br>**Sprint 3 Retrospective Blog Due 11:59pm**| 15 March<br>**Sprint 4 Planning** | 16 March<br>**Standup<br>Due 11:59pm**
-**Spring<br>Break** | | 20 March<br>**No Class<br>Spring Break** | | 22 March<br>**No Class<br>Spring Break**
-**Week 10** | 26 March<br>**Standup<br>Due 11:59pm** | 27 March<br>Teams working | 28 March<br>**Standup<br>Due 11:59pm** | 29 March<br>Teams working | 30 March<br>**Standup<br>Due 11:59pm**
-**Week 11** | 2 April<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 3 April<br>**Sprint 4 Review, Retrospective**  | 4 April<br>**Sprint 4 Retrospective Blog Due 11:59pm**| 5 April<br>**Sprint 5 Planning** | 6 April<br>**Standup<br>Due 11:59pm**
-**Week 12** | 9 April<br>**Standup<br>Due 11:59pm** | 10 April<br>Teams working | 11 April<br>**Standup<br>Due 11:59pm** | 12 April<br>Teams working | 13 April<br>**Standup<br>Due 11:59pm**
-**Week 13** | 16 April<br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 17 April<br>**Sprint 5 Review, Retrospective** | 18 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 19 April<br>**Sprint 6 Planning** | 20 April<br>**Standup<br>Due 11:59pm**
-**Week 14** | 23 April<br>**Standup<br>Due 11:59pm**| 24 April<br>Teams working | 25 April<br>**Standup<br>Due 11:59pm**| 26 April<br>Teams working | 27 April<br>**Standup<br>Due 11:59pm**
-**Week 15** | 30 April <br>**Team Evaluation Due 11:59pm**<br><hr>**Standup<br>Due 11:59pm** | 1 May <br>**Sprint 6 Review, Retrospective** | 2 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** | 3 May<br>**Sprint Planning**<br>for Final Presentations | 4 May<br>**Standup<br>Due 11:59pm**
-**Week 16<br>Final Exams** | 7 May<br>**Standup<br>Due 11:59pm**| 8 May<br>Last Day of Classes<br><hr>Teams working on Presentations | 9 May<br>**Standup<br>Due 11:59pm**| 10 May<br>**12:30-3:30pm<br>Final Presentations** | 11 May <br>**Team Evaluation Due 11:59pm**
+**Week 1** | 21 January<br>**No Class<br>Martin Luther King Holiday** | | 23 January<br>Class | |  
+**Week 2** | 28 January<br>Class | | 30 January<br>Class | |  
+**Week 3** | 4 February<br>Class | | 6 February<br>**Sprint 1 Planning** | | 8 February<br>**Standup<br>Due 11:59pm**
+**Week 4** | 11 February<br>Teams continue working in class | 12 February<br>**Standup<br>Due 11:59pm** | 13 February<br>Teams continue working in class | | 15 February<br>**Standup<br>Due 11:59pm**
+**Week 5** | 18 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 20 February<br>**Team Evaluation Due Noon**<hr>**Sprint 1 Review, Retrospective**<br>**Sprint 2 Planning** | | 22 February<br>**Standup<br>Due 11:59pm** 
+**Week 6** | 25 February<br>Teams continue working in class | 26 February<br>**Standup<br>Due 11:59pm** | 27 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | | 1 March<br>**Standup<br>Due 11:59pm**
+**Week 7** | 4 March<br>**Team Evaluation Due Noon**<hr>**Sprint 2 Review, Retrospective** | 5 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 6 March<br>**Sprint 3 Planning** | | 8 March<br>**Standup<br>Due 11:59pm**
+<hr> | <hr> | **Spring** | **Break** | <hr> | <hr> | 
+**Week 8** | 18 March<br>Teams continue working in class | 19 March<br>**Standup<br>Due 11:59pm** | 20 March<br>Teams continue working in class | | 22 March<br>**Standup<br>Due 11:59pm**
+**Week 9** | 25 March<br>**Team Evaluation Due Noon**<hr>**Sprint 3 Review, Retrospective** | 26 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 27 March<br>**Sprint 4 Planning** | | 29 March<br>**Standup<br>Due 11:59pm** 
+**Week 10** | 1 April<br>Teams continue working in class | 2 April<br>**Standup<br>Due 11:59pm** | 3 April<br>Teams continue working in class | | 5 April<br>**Standup<br>Due 11:59pm**
+**Week 11** | 8 April<br>**Team Evaluation Due Noon**<hr>**Sprint 4 Review, Retrospective** | 9 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 10 April<br>**Sprint 5 Planning** | | 12 April<br>**Standup<br>Due 11:59pm**  
+**Week 12** | 15 April<br>**No Class<br>Patriots Day Holiday**  | 16 April<br>**Standup<br>Due 11:59pm** | 17 April<br>Teams continue working in class | | 19 April<br>**Standup<br>Due 11:59pm**
+**Week 13** | 22 April<br>**Team Evaluation Due Noon**<hr>**Sprint 5 Review, Retrospective** | 23 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 24 April<br>**Sprint 6 Planning** | | 26 April<br>**Standup<br>Due 11:59pm**
+**Week 14** | 29 April<br>Teams continue working in class | 30 April<br>**Standup<br>Due 11:59pm** | 1 May<br>Teams continue working in class | | 3 May<br>**Standup<br>Due 11:59pm**
+**Week 15** | 6 May<br>**Team Evaluation Due Noon**<hr>**Sprint 6 Review, Retrospective** | 2 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** |  | |  
+**Finals** | | | 15 May<br>**Final Presentations<br>12:30-3:30pm** | |  
+
+### Section 02 - TR 11:30am-12:45pm
+&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday
+:-: | :-: | :-: | :-: | :-: | :-:
+**Week 1** | | 22 January<br>Class | | 24 January<br>Class |  
+**Week 2** | | 29 January<br>Class | | 31 January<br>Class | |  
+**Week 3** | | 5 February<br>Class | | 7 February<br>**Sprint 1 Planning** | |
+**Week 4** | 11 February<br>**Standup<br>Due 11:59pm** | 12 February<br>Teams continue working in class | | 14 February<br>Teams continue working in class | 15 February<br>**Standup<br>Due 11:59pm**
+**Week 5** | 18 February<br>**Standup<br>Due 11:59pm** | 19 February<br>**Team Evaluation Due Noon**<hr>**Sprint 1 Review, Retrospective** | 20 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 21 February<br>**Sprint 2 Planning** | 
+**Week 6** | 25 February<br>**Standup<br>Due 11:59pm** | 26 February<br>Teams continue working in class | | 28 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | 1 March<br>**Standup<br>Due 11:59pm** 
+**Week 7** | 4 March<br>**Standup<br>Due 11:59pm** | 5 March<br>**Team Evaluation Due Noon**<hr>**Sprint 2 Review, Retrospective** | 6 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 7 March<br>**Sprint 3 Planning** |
+<hr> | <hr> | **Spring** | **Break** | <hr> | <hr> | 
+**Week 8** | 18 March<br>**Standup<br>Due 11:59pm** | 19 March<br>Teams continue working in class | | 21 March<br>Teams continue working in class | 22 March<br>**Standup<br>Due 11:59pm**
+**Week 9** | 25 March<br>**Standup<br>Due 11:59pm**  | 26 March<br>**Team Evaluation Due Noon**<hr>**Sprint 3 Review, Retrospective** | 27 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 28 March<br>**Sprint 4 Planning** | 
+**Week 10** | 1 April<br>**Standup<br>Due 11:59pm** | 2 April<br>Teams continue working in class | | 4 April<br>Teams continue working in class | 5 April<br>**Standup<br>Due 11:59pm**
+**Week 11** | 8 April<br>**Standup<br>Due 11:59pm** | 9 April<br>**Team Evaluation Due Noon**<hr>**Sprint 4 Review, Retrospective** | 10 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 11 April<br>**Sprint 5 Planning** | 
+**Week 12** | 15 April<br>**Standup<br>Due 11:59pm** | 16 April<br>Teams continue working in class | | 18 April<br>Teams continue working in class | 19 April<br>**Standup<br>Due 11:59pm**
+**Week 13** | 22 April<br>**Standup<br>Due 11:59pm** | 23 April<br>**Team Evaluation Due Noon**<hr>**Sprint 5 Review, Retrospective** | 24 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 25 April<br>**Sprint 6 Planning** |
+**Week 14** | 29 April<br>**Standup<br>Due 11:59pm** | 30 April<br>Teams continue working in class | | 2 May<br>Teams continue working in class | 3 May<br>**Standup<br>Due 11:59pm**
+**Week 15** | 6 May<br>**Standup<br>Due 11:59pm** | 7 May<br>**Team Evaluation Due Noon**<hr>**Sprint 6 Review, Retrospective** | 8 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** | 9 May<br>**Final Presentations<br>12:30-3:30pm**  | |   
 
 ## Copyright and License
-#### &copy; 2018 Karl R. Wurst, Worcester State University
+#### &copy; 2019 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA2019
