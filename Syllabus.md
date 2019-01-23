@@ -1,4 +1,4 @@
-*Version 2019-Spring-1.1, Revised 21 January 2019*
+*Version 2019-Spring-1.2, Revised 23 January 2019*
 ### *CS-448 01, 02 &mdash; Spring 2019*
 
 # Software Development Capstone
@@ -16,7 +16,8 @@ See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for conta
 
 ## Meeting Times and Locations
 Section | Day/Time | Room
-:-: | :-: | :-:01 | MW 2:00-3:15pm | Sullivan 105
+:-: | :-: | :-:
+01 | MW 2:00-3:15pm | Sullivan 105
 02 | TR 11:30am-12:45pm | Sullivan 105
 
 ## It's in the Syllabus
@@ -449,7 +450,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 **Week 5** | 18 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 20 February<br>**Team Evaluation Due Noon**<hr>**Sprint 1 Review, Retrospective**<br>**Sprint 2 Planning** | | 22 February<br>**Standup<br>Due 11:59pm** 
 **Week 6** | 25 February<br>Teams continue working in class | 26 February<br>**Standup<br>Due 11:59pm** | 27 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | | 1 March<br>**Standup<br>Due 11:59pm**
 **Week 7** | 4 March<br>**Team Evaluation Due Noon**<hr>**Sprint 2 Review, Retrospective** | 5 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 6 March<br>**Sprint 3 Planning** | | 8 March<br>**Standup<br>Due 11:59pm**
-<hr> | <hr> | **Spring** | **Break** | <hr> | <hr> | 
+**Spring Break**
 **Week 8** | 18 March<br>Teams continue working in class | 19 March<br>**Standup<br>Due 11:59pm** | 20 March<br>Teams continue working in class | | 22 March<br>**Standup<br>Due 11:59pm**
 **Week 9** | 25 March<br>**Team Evaluation Due Noon**<hr>**Sprint 3 Review, Retrospective** | 26 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 27 March<br>**Sprint 4 Planning** | | 29 March<br>**Standup<br>Due 11:59pm** 
 **Week 10** | 1 April<br>Teams continue working in class | 2 April<br>**Standup<br>Due 11:59pm** | 3 April<br>Teams continue working in class | | 5 April<br>**Standup<br>Due 11:59pm**
@@ -467,18 +468,18 @@ It is my policy to securely dispose of student work one calendar year after grad
 **Week 2** | | 29 January<br>Class | | 31 January<br>Class | |  
 **Week 3** | | 5 February<br>Class | | 7 February<br>**Sprint 1 Planning** | |
 **Week 4** | 11 February<br>**Standup<br>Due 11:59pm** | 12 February<br>Teams continue working in class | | 14 February<br>Teams continue working in class | 15 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 18 February<br>**Standup<br>Due 11:59pm** | 19 February<br>**Team Evaluation Due Noon**<hr>**Sprint 1 Review, Retrospective** | 20 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 21 February<br>**Sprint 2 Planning** | 
+**Week 5** | 18 February<br>**Standup<br>Due 11:59pm** | 19 February<br>**Team Evaluation Due 9:30am**<hr>**Sprint 1 Review, Retrospective** | 20 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 21 February<br>**Sprint 2 Planning** | 
 **Week 6** | 25 February<br>**Standup<br>Due 11:59pm** | 26 February<br>Teams continue working in class | | 28 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | 1 March<br>**Standup<br>Due 11:59pm** 
-**Week 7** | 4 March<br>**Standup<br>Due 11:59pm** | 5 March<br>**Team Evaluation Due Noon**<hr>**Sprint 2 Review, Retrospective** | 6 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 7 March<br>**Sprint 3 Planning** |
-<hr> | <hr> | **Spring** | **Break** | <hr> | <hr> | 
+**Week 7** | 4 March<br>**Standup<br>Due 11:59pm** | 5 March<br>**Team Evaluation Due 9:30am**<hr>**Sprint 2 Review, Retrospective** | 6 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 7 March<br>**Sprint 3 Planning** |
+**Spring Break**
 **Week 8** | 18 March<br>**Standup<br>Due 11:59pm** | 19 March<br>Teams continue working in class | | 21 March<br>Teams continue working in class | 22 March<br>**Standup<br>Due 11:59pm**
-**Week 9** | 25 March<br>**Standup<br>Due 11:59pm**  | 26 March<br>**Team Evaluation Due Noon**<hr>**Sprint 3 Review, Retrospective** | 27 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 28 March<br>**Sprint 4 Planning** | 
+**Week 9** | 25 March<br>**Standup<br>Due 11:59pm**  | 26 March<br>**Team Evaluation Due 9:30am**<hr>**Sprint 3 Review, Retrospective** | 27 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 28 March<br>**Sprint 4 Planning** | 
 **Week 10** | 1 April<br>**Standup<br>Due 11:59pm** | 2 April<br>Teams continue working in class | | 4 April<br>Teams continue working in class | 5 April<br>**Standup<br>Due 11:59pm**
-**Week 11** | 8 April<br>**Standup<br>Due 11:59pm** | 9 April<br>**Team Evaluation Due Noon**<hr>**Sprint 4 Review, Retrospective** | 10 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 11 April<br>**Sprint 5 Planning** | 
+**Week 11** | 8 April<br>**Standup<br>Due 11:59pm** | 9 April<br>**Team Evaluation Due 9:30am**<hr>**Sprint 4 Review, Retrospective** | 10 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 11 April<br>**Sprint 5 Planning** | 
 **Week 12** | 15 April<br>**Standup<br>Due 11:59pm** | 16 April<br>Teams continue working in class | | 18 April<br>Teams continue working in class | 19 April<br>**Standup<br>Due 11:59pm**
-**Week 13** | 22 April<br>**Standup<br>Due 11:59pm** | 23 April<br>**Team Evaluation Due Noon**<hr>**Sprint 5 Review, Retrospective** | 24 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 25 April<br>**Sprint 6 Planning** |
+**Week 13** | 22 April<br>**Standup<br>Due 11:59pm** | 23 April<br>**Team Evaluation Due 9:30am**<hr>**Sprint 5 Review, Retrospective** | 24 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 25 April<br>**Sprint 6 Planning** |
 **Week 14** | 29 April<br>**Standup<br>Due 11:59pm** | 30 April<br>Teams continue working in class | | 2 May<br>Teams continue working in class | 3 May<br>**Standup<br>Due 11:59pm**
-**Week 15** | 6 May<br>**Standup<br>Due 11:59pm** | 7 May<br>**Team Evaluation Due Noon**<hr>**Sprint 6 Review, Retrospective** | 8 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** | 9 May<br>**Final Presentations<br>12:30-3:30pm**  | |   
+**Week 15** | 6 May<br>**Standup<br>Due 11:59pm** | 7 May<br>**Team Evaluation Due 9:30am**<hr>**Sprint 6 Review, Retrospective** | 8 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** | 9 May<br>**Final Presentations<br>12:30-3:30pm**  | |   
 
 ## Copyright and License
 #### &copy; 2019 Karl R. Wurst, Worcester State University
