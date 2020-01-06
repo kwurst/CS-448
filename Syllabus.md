@@ -1,5 +1,9 @@
-*Version 2019-Spring-1.2, Revised 23 January 2019*
-### *CS-448 01, 02 &mdash; Spring 2019*
+*Version 2020-Spring-0.9, Revised 6 January 2020*
+
+### *CS-448 01 &mdash; Spring 2020*
+
+<font color=red size=7>DRAFT</font><br>
+<font color=red size=4>This is a draft version. It is subject to change until the first day of class on 13 January 2020.</font>
 
 # Software Development Capstone
 
@@ -12,13 +16,11 @@ Lecture: 3 hours/week
 
 ## Instructor
 Dr. Karl R. Wurst<br>
-See [http://cs.worcester.edu/kwurst/](http://cs.worcester.edu/kwurst/) for contact information and schedule.
+See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
-## Meeting Times and Locations
-Section | Day/Time | Room
-:-: | :-: | :-:
-01 | MW 2:00-3:15pm | Sullivan 105
-02 | TR 11:30am-12:45pm | Sullivan 105
+## Meeting Time and Location
+Mondays and Wednesdays 8:00-9:15am<br>
+Sullivan 105
 
 ## It's in the Syllabus
 <img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
@@ -53,7 +55,7 @@ Access information is given below:
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/1802_image001.jpg" width="110" /></td>
 <td>
-<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="http://ericsink.com/vcbe/" target="_blank">Free downloads available here</a></p>
+<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="https://ericsink.com/vcbe/index.html" target="_blank">Free downloads available here</a></p>
 </td>
 </tr>
 </tbody>
@@ -64,13 +66,10 @@ In addition to the textbook, to successfully complete this course you will need:
 
 1.	**Laptop Computer:** You will need a laptop computer that you can bring to class sessions and can use at home. The brand and operating system (Windows, Mac OS X, Linux) is unimportant – the software we will be using runs on all major operating systems and can be downloaded for free.  It is expected that you will download and install required software as needed over the course of the semester.
 2.	**Internet Access:** You will need Internet access for access to:
-    1.	**Github/GitLab** &mdash; We will use Github or GitLab to host our code.
-    2.	**Slack** &mdash; We will use Slack for team communication, including standup meetings and reminders of assignment due dates.
-    3. **CATME** &mdash; We will use CATME for team formation and team performance evaluation.
-    4. **Trello** &mdash; We will use Trello for teams to manage their sprints and tasks.
-    7.	**Wordpress or other blogging platform** &mdash; You will be keeping a blog about your learning in this course.
-    8.	**Tutorials and articles** &mdash; I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
-    9. **Project-Specific Tools** &mdash; Depending on what project you are working on, you will need access to other tools used by that project.
+    1.	**GitLab** &mdash; We will use GitLab to host our code.
+    2.	**Discord** &mdash; We will use Discord for team communication.
+    3. **Blogging site** &mdash; You will blogging about your sprints and about your readings in <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em>
+    4.	**Tutorials and articles** &mdash; I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
 ## ACM Student Membership
 It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>.
@@ -82,8 +81,8 @@ The ACM is the world's largest educational and scientific computing professional
 
 ## Course Workload Expectations
 ***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per week on this class.***
- 
-You will spend 3 hours per week in class participating in Scrum meetings, attending Product Owner meetings, working with your team, or working on training sessions on new tools and techniques. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
+
+You will spend 3 hours per week in class participating in Scrum meetings and working with your team. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
 
 ***The bulk of your work in this course will take place outside of the class time. It is not possible to contribute the amount of work your team and the class need to be successful entirely within the 3 hours of class time. If you attempt to do so, you will not only receive a poor grade in the course, but will also be letting down your classmates, and giving a poor impression of your reliability and quality of work to your classmates and to members of the professional community.***
 
@@ -92,7 +91,7 @@ You will spend 3 hours per week in class participating in Scrum meetings, attend
 ## Definition of the Credit Hour
 >Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
 
->1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or 
+>1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
@@ -105,9 +104,9 @@ You will spend 3 hours per week in class participating in Scrum meetings, attend
 
 This course has a prerequisite of CS 343 - Software Construction, Design and Architecture. I expect that you understand good software design and construction principles, can read code and comprehend the design of a system, can design and build software as part of a larger system using good design principles.
 
-This course has a prerequisite or corequisite of CS 348 – Software Process Management. You will either have or be developing some familiarity with the software development process, with some team processes, collaboration tools, and will use them as your team works on its project during this semester.
+This course has a prerequisite or corequisite of CS 348 – Software Process Management. You will either have (or be developing) some familiarity with the software development process, with some team processes, collaboration tools, and will use them as your team works on its project during this semester.
 
-This course has a prerequisite of CS 373 - Operating Systems. I expect you to understand some of the problems of large, concurrent systems that manage system resources.
+This course has a prerequisite of CS 373 - Operating Systems. I expect you to understand some of the problems of large, concurrent systems that manage system resources, as the system we are developing will be using concurrency.
 
 This course has a prerequisite of CS 443 - Software Quality Assurance and Testing. I expect you to be able to develop and implement appropriate test cases, and be able to use test automation systems.
 
@@ -125,15 +124,15 @@ CS 343 and CS 373 required EN 252 – Technical Writing. You should be able to w
 
 ## Attendance
 
-You are expected to attend every class. You will be accomplishing important team planning, review, estimation, and task selection and creation work to enable your team to make progress within the project. See important details under Attendance and Participation to see how you will be graded.
+You are expected to attend every class. In class you will working with your teammates on planning, review, estimation, task creation and selection, learning, and implementation. It is important for all members of the team to be present to enable the team to make progress. See important details under Attendance and Participation to see how you will be graded.
 
 ## Course Format
 
-This is a course about learning to work within a large, distributed software project. Much of our class time will be used for team planning, review, estimation, and task selection and creation work to enable your team to make progress within the project. A portion of our class time will be used for me to present some new material on the software development process, tool, group process, or object-oriented design.
+This is a course about learning to work within a large, distributed software project. Much of our class time will be used for planning, review, estimation, and task creation and selection, learing, and implementation work.
 
 ## Course Objectives
 
-This course is intended to mimic, as closely as possible, the professional software development team environment. The students will develop a significant software system, employing knowledge gained from courses throughout the program. They will work in groups to manage a project, selecting and following appropriate project management techniques. They will develop the requirements, design, implementation, and quality assurance plan, and analyze the project for professional, social, and ethical issues. 
+This course is intended to mimic, as closely as possible, the professional software development team environment. The students will develop a significant software system, employing knowledge gained from courses throughout the program. They will work in groups to manage a project, selecting and following appropriate project management techniques. They will develop the requirements, design, implementation, and quality assurance plan, and analyze the project for professional, social, and ethical issues.
 
 The students will have to learn new technology and techniques on their own as required for the specific project, showing the importance of continuing professional development. They will have to reflect on their learning and make frequent written and oral status reports on their individual and team progress. They will be encouraged to contribute the results of their learning and their work back to the professional community.
 
@@ -152,11 +151,7 @@ Upon successful completion of this course, students will be able to:
 
 ## Civic Learning, Engagement Required (CLER) Course
 
-In this course we will be helping to develop software for two humanitarian organizations:
-
-* [AMPATH](http://www.ampathkenya.org/), a consortium of health centers working with the Kenyan government to provide healthcare in Kenya
-* LibreFoodPantry, a Humanitarian Free and Open Source Software (HFOSS) project developing software to help manage food pantries
-
+In this course we will be helping to develop software for <a href="https://librefoodpantry.org">LibreFoodPantry</a>, a Humanitarian Free and Open Source Software (HFOSS) project developing software to help manage food pantries
 
 ## LASC Student Learning Outcomes
 
@@ -175,7 +170,7 @@ This course does not fulfill any LASC Content Area requirements, but contributes
 This course fulfills the Capstone Experience requirement for both the Major in Computer Science and the LASC. From the LASC:
 
 >Capstone seminars are offered to students in their junior or senior year through their major field of study for varying credit or through a three-credit course offered within the Liberal Arts and Sciences Curriculum. Capstone seminars completed within a student's major field of study will count toward major requirements and will meet the LASC capstone experience requirement.
- 
+
 >Capstone seminars:
 >
 * provide students the opportunity to demonstrate mastery of a subject area or skill.
@@ -187,7 +182,7 @@ This course fulfills the Capstone Experience requirement for both the Major in C
 This course addresses the following outcomes of the Computer Science Major (see [http://www.worcester.edu/Computer-Science-Program/](http://www.worcester.edu/Computer-Science-Program/)):
 
 Upon successful completion of the Major in Computer Science, students will be able to:
-	
+
 1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Mastery)
 2.	Communicate effectively both in written and oral form. (Mastery)
 3.	Identify professional and ethical considerations, and apply ethical reasoning to technological solutions to problems. (Mastery)
@@ -195,17 +190,38 @@ Upon successful completion of the Major in Computer Science, students will be ab
 5.	Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Mastery)
 
 ## Course Topics
+
+* Team Roles
+	* Scrum master
+	* Frontend developer
+	* Backend developer
+	* Documentation Writer
+	* Code Merger
+	* Code Reviewer
+	* Quality Assurance and Tester
+	* Database Designer/Implementer
+* Software Development Process and Tools						
+	* Using Gitlab issues, boards, epics, and milestones to plan, design, coordinate, implement, review, and test.					
+* Infrastructure Skills and Tools
+	 * Containers
+	 * Continuous Integration
+	 * Testing frameworks
+	 * Documentation System
+	 * Versioning
+	 * Working agreements
+	 * Dependencies
+	 * Tech decisions
+	 * Build scripts
+* Product	Skills
+   *	Designing for Product Functionality
+   *  Designing APIs
+   *	Designing GUIs
+   *	Writing Unit Tests
+   *	Writing Functional Tests
+   *	Writing Integration Tests
+   *	Writing Code for Functionality
+   *	Writing Documentation
 * Professionalism
-* Team Process and Team Managment
-* Project management
-* Software process models
-* Software testing
-* Software licensing
-* Documentation standards
-* Software maintenance
-* Code review
-* Version control
-* Collaboration tools
 
 ## Grading Policies
 I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
@@ -214,16 +230,16 @@ As an example, imagine a course with two major learning outcomes: X and Y. It is
 
 Therefore the grading in this course will be handled in a different manner:
 
-* All assignments will be graded on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification. 
-* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in a ***Meets Specification*** manner to earn a passing course grade (D).
+* All assignments will be graded on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification.
+* A minimum collection of assignments, indicating *minimal* competency in the course learning outcomes, must be completed in a ***Meets Specification*** manner to earn a passing course grade (D).
 * Higher passing grades (A, B, C) can be earned by completing more assignments and/or assignments that show higher-level thinking and learning skills.
 
 ### Assignment Grading
 
-* All assignments in this course will be graded exclusively on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis. 
-* **For each assignment, you will be given a detailed specification explaining what is required for the work to be marked *Meets Specification*.** 
-* Failing to meet ***any part*** of the specification will result in the work being marked **Does Not Yet Meet Specification**. 
-* There will be no partial credit given. 
+* All assignments in this course will be graded exclusively on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis.
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be marked *Meets Specification*.**
+* Failing to meet ***any part*** of the specification will result in the work being marked **Does Not Yet Meet Specification**.
+* There will be no partial credit given.
 * If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
 * It will be possible to revise and resubmit a limited number of assignments with **Does Not Yet Meet Specification** grades (see *Revision and Resubmission of Work* below).
 
@@ -233,46 +249,30 @@ Your grade for the course will be determined by which assignments and/or how man
 
 #### Base Grade
 
-Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D 
+Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D
 --- | :-: | :-: | :-: | :-:
-CATME Team Formation Survey | &#10004; | &#10004; | &#10004; | &#10004;
-CATME Rater Practice High Score | 15 | 10 | 10 | 5
-Team Tools/Domain Familiarization | &#10004; | &#10004; | &#10004; | &#10004;
-Attendance and Participation (In-Class)<br>&nbsp;&nbsp;&mdash;Preliminary Classes&nbsp;(out of 4)<br>&nbsp;&nbsp;&mdash;Sprint Planning&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Sprint Review and Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Work Classes&nbsp;(out of 12) | <br>4<br>6<br>6<br>11 | <br>4<br>6<br>6<br>8 | <br>4<br>6<br>6<br>5 | <br>4<br>5<br>5<br>2
-Attendance and Participation (Online)<br>&nbsp;&nbsp;&mdash;Standups&nbsp;(out of 18)<br>&nbsp;&nbsp;&mdash;CATME Team Evaluations&nbsp;(out of 6) | <br>18<br>6 | <br>17<br>6 | <br>16<br>6 | <br>15<br>5
-Blog Posts<br>&nbsp;&nbsp;&mdash;<em>Apprenticeship Patterns</em> &mdash; Chapter 1, and Chapter 2-6 Introductions<br>&nbsp;&nbsp;&mdash;"Why Doctors Hate Their Computers" article&nbsp;<br>&nbsp;&nbsp;&mdash;Sprint Retrospective&nbsp;(out of 6)<br>&nbsp;&nbsp;&mdash;Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>&#10004;<br>6<br>10 | <br>&#10004;<br>&#10004;<br>6<br>7 | <br>&#10004;<br>&#10004;<br>6<br>4 | <br>&#10004;<br>&#10004;<br>5<br>1
+Attendance and Participation (Class Sessions)<br>&nbsp;&nbsp;&mdash; Introduction, Team Formation, and Observation&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Planning&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Review&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Retrospective&nbsp;(out of 2)<br>&nbsp;&nbsp;&mdash; Standup Meeting and Work Classes&nbsp;(out of 17) | <br>3<br>3<br>3<br>2<br>16 | <br>3<br>3<br>3<br>2<br>14 | <br>3<br>3<br>3<br>2<br>12 | <br>2<br>3<br>3<br>2<br>10
+Sprint Planning Preparation &mdash; Individual Grade (3 Sprints) | 3 | 3 | 3 | 3
+Sprint Review &mdash; Team Grade (3 Sprints) | 3 | 3 | 3 | 3
+Sprint Retrospective &mdash; Individual Blog Post&nbsp;(3 Sprints) | 3 | 3 | 3 | 3
+<em>Apprenticeship Patterns</em> Blog Posts<br>&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Chapter 1 and Chapter 2-6 Introductions<br>&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>8 | <br>&#10004;<br>6 | <br>&#10004;<br>4 | <br>&#10004;<br>2
 Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
-* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 7 Individual <em>Apprenticeship Pattern</em> Blog Posts that meet specification, you will earn a C grade.
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to write 6 Individual <em>Apprenticeship Pattern</em> Blog Posts that meet specification, you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
 
 #### Plus or Minus Grade Modifiers
 
-* You will have a ***plus*** modifier applied to your base grade if you complete one more Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
-* You will have a ***minus*** modifier applied to your base grade if you complete one fewer Individual <em>Apprenticeship Pattern</em> Blog Posts than required for a particular base grade.
+* You will have a ***plus*** modifier applied to your base grade if you complete one more *Individual Apprenticeship Pattern Blog Post* ***and*** attend one more *Standup Meeting and Work Class* than required for a particular base grade.
+* You will have a ***minus*** modifier applied to your base grade if you complete one fewer *Individual Apprenticeship Pattern Blog Posts* ***and*** attend one fewer *Standup Meeting and Work Classes* than required for a particular base grade.
 
 *Note:*
- 
+
 * The limits for the number of assignments to be submitted in a single week still apply.
 * WSU has no A+ grade.
 
-## CATME Team Formation Survey
-We will be using [CATME SMARTER Teamwork](https://info.catme.org/about/) to form teams and to assess team performance.
-
-Our first use of CATME will be to use the CATME Team-Maker to form teams for the semester based on criteria collected in the Team Formation Survey. 
-
-Everyone must complete the Team Formation Survey by the due date/time.
-
-## CATME Rater Practice
-Our main use of CATME will be to evaluate team performance, and use those evaluations to normalize expectations for team participation and to improve team performance.
-
-In order to help teams normalize their expectations for team participation, everyone will take part in the CATME Rater Pratice. In this way, everyone will learn to apply the same ratings for the same behaviors and level of participation.
-
-## Team Tools/Domain Familiarization
-In the first few weeks of the semester, we will learn how to use the tools that we will be using to manage the team and the project. We will also need to learn about the domains of the two projects you will choose from: Electronic Medical Records Systems and Food Banks/Food Pantries.
-
 ## Attendance and Participation (In-Class)
-You are expected to attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, and discussing course material. 
+You are expected to attend all class meetings. During our class meetings, your team will be planning for upcoming work, updating each other on status, reviewing past work, producing new work, and discussing course material.
 
 For your Attendance and Participation for a particular class to be marked ***Meets Specification*** you are expected to:
 
@@ -280,53 +280,90 @@ For your Attendance and Participation for a particular class to be marked ***Mee
 * Have arrived on time.
 * Participate fully in team activities.
 
-### Preliminary Classes
-For the first four classses, we will be learning team tools and familiarizing ourselves with the problem domains.
-### Sprint Planning
-The class at the beginning of each two-week sprint will be used for the team to plan the upcoming sprint.
-### Sprint Review and Retrospective
-The class at the end of each two-week sprint will be used to review completed work, evaluate team performance, and decide on changes to make to team process.
-### Work Classes
-The two classes in the middle of each two-week sprint will be used as a time for team members to meet in person and work in small groups.
+**Each of the four teams will have a slightly different schedule for the types of classes listed below.  See the schedule at the end of this syllabus for details.**
 
-**Remember that you are expected to spend 6 hours a week outside of class time working on your team-assigned tasks for the sprint.**
+### Introduction, Team Formation, and Observation Classes
+For the first two classes, we will be discussing the LibreFoodPantry project and architecture, and forming our teams for the semester. Each team will also have a class where they are expected to observe another team's meeting (but not participate).
 
-## Attendance and Participation (Online)
-### Standups
-On three days during the sprints, you are expected to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. (The days for your standup meetings are determined by which section you are in. See the schedule at the end of the syllabus, or the Google calendar for your section.)
+### Sprint Planning Classes
+The first class of each multi-week sprint will be used for the team to plan the upcoming sprint. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, and will help with the planning.
 
-These standup meetings will be asynchronous and online. This means that you can give your status report at anytime during the day on which the standup is due. You will give your status report through Slack.
-### CATME Team Evaluations
-Team performance will be measured by CATME Team Evaluations. These evaluations will be used to improve team performance and functioning.
+### Sprint Review Classes
+The next-to-last class of each multi-week sprint will be used to review completed work. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, will be the one you are presenting the completed work to, and will make the determination of whether to accept work as "done".
 
-There will be a CATME Team Evaluation at the end of each sprint, before the Sprint Retrospective, so that the members of the team can incorporate the results of the evaluation into the decisions made during the retrospective.
+### Sprint Retrospective Classes
+The last class of each multi-week sprint will be used to evaluate team performance, and decide on changes to make to team process. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, mostly as an observer.
+
+### Standup Meeting and Work Classes
+The classes in the middle of each multi-week sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
+
+You will also use these classes work in small groups on planning, development, and learning. In addition, teams will be sending observers to other teams' meetings to bring back information on what other teams are doing. The Product Owner (the instructor) may be available for questions during these classes, depending on what other meetings are happening.
+
+## Sprint Planning Preparation &mdash; Individual Grades
+In the week preceding the Sprint Planning meeting, you will preparing for the planning meeting that takes place in class.
+
+You will be graded on what you have done in the preceding week to help prepare for the planning meeting.
+
+Preparing for Sprint Planning consists of some combination of the following activities:
+*	Comment on existing issues to help refine them.		
+*	Create new issues for missing items.
+*	Identify issues that you think should be closed, and explain why.			
+*	Ask or answer clarifying questions on an issue.			
+*	Suggest a weight for an issue, and explain why.			
+*	Suggest that an issue should be in the next sprint and why.			
+*	Propose who should do something and explain why.			
+*	Document resources useful for completing a task.		
+*	Provide a plan, checklist, or list of steps for completing a task.		
+*	Apply or remove labels appropriately, and explain why.			
+*	Respond to someone else's comment (emojis are acceptable).
+
+<font color=red>More details on how this translates into a grade to be developed.</font>
+
+## Sprint Review &mdash; Team Grades
+During the Sprint Review meeting, you will be graded ***as a team*** on how much was accomplished during the preceding sprint.
+
+The grading criteria include:
+* GitLab is being used effectively to coordinate the team	(Planning, discussing, documenting, coordinating, etc.)
+* Demo can run on instructor's machine.
+* Sufficient progress was made on the project.
+  * What goals were achieved?
+  * What major accomplishments towards a goal were achieved?
+  * The ratio between major goals and accomplishments toward a goal completed will change over the semester. As a rough guideline:
+
+Sprint # | Goals Achieved | Major Accomplishments toward a Goal achieved
+:-: | :-: | :-:
+1 | 30% | 70%
+2 | 50% | 50%
+3 | 70% | 30%
+
+<font color=red>More details on how this translates into a grade to be developed.</font>
+## Sprint Retrospective &mdash; Individual Blog Posts
+At the end of each sprint, you will post a Sprint Retrospective blog post about your learning in the class, the work and work products you are producing, etc. (Details below in the `Blog Posts` section.)
 
 ## Blog Posts
 
-You will be required to keep a blog about your part of the project and your experiences in this class, as well as summaries and reflections on the readings. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source Planet](http://planet.teachingopensource.org/). 
+You will be required to keep a blog about your part of the project and your experiences in this class, as well as summaries and reflections on the readings. Your blog must be publicly accessible[^1], and will be aggregated on the [CS@Worcester Blog](http://cs.worcester.edu/blog/) and (possibly) the [Teaching Open Source](http://teachingopensource.org/) Planet.
 
 Your blog posts will be about your learning in the class, the work and work products you are producing, the readings, etc.
 
 [^1]: If there is a reason why your name cannot be publicly associated with this course, you may blog under a pseudonym. You must see me to discuss the details, but your blog must still be publicly accessible and aggregated, and you must inform me of your pseudonym.
 
-
 ### Sprint Retrospective Blog Posts
-At the end of each sprint, you will post a Sprint Retrospective blog post about your learning in the class, the work and work products you are producing, etc.
-
 For your Sprint Retrospective Blog Posts to be marked ***Meets Specification*** your blog post is expected to contain:
 
-* A reflection on what you learned from the week's activities, how you would proceed differently in light of this, and how what was learned might be applied in other situations.
-* A detailed description of what was done during the week, an explanation of why you took the steps you did during the week. Describes what was tried, what succeeded and what failed, and how you chose the course of action.
-* Includes references to where information/help was found.
-* Links to work products you produced during the sprint.
+* Links to evidence of activity on GitLab with one sentence description for each		
+* Reflection on what worked well?		
+* Reflection on what didn't work well?		
+* Reflection on what changes could be made to improve as a team?		
+* Reflection on what changes could be made to improve as an individual?		
 * A label for the Sprint Number (e.g. Sprint-1). (See the Schedule at the end of this syllabus for sprint numbers.)
-* A list of steps that could be followed by another person to do the same thing (if applicable).
 * 500-750 words.
+* Due before the date and time of the Sprint Retrospective Meeting.
 
 ### <em>Apprenticeship Patterns</em> Chapter 1 and Chapter 2-6 Introductions
 Everyone must read and post about Chapter 1 of <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em> by Dave Hoover and Adewale Oshineye, and the introduction portions of Chapters 2-6.
 
-For your <em>Apprenticeship Patterns</em> Chapter 1 adn Chapter 2-6 Introductions Blog Post to be marked ***Meets Specification*** your blog post is expected to contain:
+For your <em>Apprenticeship Patterns</em> Chapter 1 and Chapter 2-6 Introductions Blog Post to be marked ***Meets Specification*** your blog post is expected to contain:
 
 * Your reaction to the reading, not simply a summary of the material. What did you find interesting, useful, thought-provoking about the reading? Has the reading caused you to change your opinion, the way you think about the topic, or how you work? Do you disagree with something in the reading? And why? Which chapters seem most relevant to you?
 * 450-600 words.
@@ -339,16 +376,13 @@ Each blog post will be written about a *single* pattern from the book. There are
 For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***Meets Specification*** your blog post is expected to contain:
 
 * A *short* summary of the pattern.
-* Your reaction to the pattern. What did you find interesting, useful, thought-provoking about the pattern? Has the pattern caused you to change the way you think about your intended profession, or how you think you will work? Do you disagree with something in the paterns? And why? 
+* Your reaction to the pattern. What did you find interesting, useful, thought-provoking about the pattern? Has the pattern caused you to change the way you think about your intended profession, or how you think you will work? Do you disagree with something in the paterns? And why?
 * The tag for the week in which the post was made, E.g. Week-1. (See the Schedule at the end of this syllabus for week numbers.)
 * 350-450 words.
-* I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.** 
+* I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.**
 
 ## Final Presentation
-Final presentations by teams on their work and experience will be given during our scheduled final exam period:
-
-* Section 01 &mdash; Wednesday, 15 May 2019 &mdash; 12:30-3:30pm
-* Section 02 &mdash; Thursday, 9 May 2019 &mdash; 12:30-3:30pm
+Final presentations by teams on their work and experience will be given during our scheduled final exam period: **Friday, 8 May 2020 &mdash; 8:30-11:30am**
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -361,20 +395,26 @@ Late work will not be accepted. (See *Tokens* below.)
 ## Revision and Resubmission of Work
 Because your first attempt at producing acceptable work for a new category of assignment may be difficult due to being unfamiliar with the specification and not having had any feedback yet, you may revise and resubmit ***a single*** assignment in each of the following categories *only*:
 
-* <em>Apprenticeship Patterns</a> Chapter 1 and Chapter 2-6 Introductions Blog Post
-* Individual <em>Apprenticeship Pattern</a> Blog Posts
+* <em>Apprenticeship Patterns</em> Chapter 1 and Chapter 2-6 Introductions Blog Post
+* Individual <em>Apprenticeship Pattern</em> Blog Posts
 * Sprint Retrospective Blog Posts
 
 ## Tokens
 Each student will be able to earn up to 5 tokens over the course of the semester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
 
-Each token can be used to:
+Tokens can be used to:
 
-* replace a single missed class session (up to a maximum of 3 missed class sessions)
-* turn in an assignment late by 24 hours
-* turn in a second Individual <em>Apprenticeship Pattern</a> Blog Post  in an a single week
-* revise and resubmit an assignment (up to a maximum of 2) that was marked **Does Not Yet Meet Specification**. Any work to be revised and resubmitted must have been submitted by the original due date.
-* Tokens cannot be used for any other purpose and unused tokens remaining at the end of the semester cannot be used to change your final course grade.
+* Replace class sessions
+  * Introduction, Team Formation, and Observation classes &mdash; 1 token per class
+  * Sprint Planning classes &mdash; 3 tokens per class
+  * Sprint Review classes &mdash;  3 tokens per class
+  * Sprint Retrospective classes &mdash; 2 tokens per class
+  * Standup Meeting and Work Classes &mdash; 1 token per class
+* Turn in an assignment late by 24 hours
+* Turn in a second Individual <em>Apprenticeship Pattern</em> Blog Post  in an a single week
+* Revise and resubmit an assignment that was marked **Does Not Yet Meet Specification**. Any work to be revised and resubmitted must have been submitted by the original due date.
+
+**Tokens cannot be used for any other purpose and unused tokens remaining at the end of the semester cannot be used to change your final course grade.**
 
 ### Token Accounting
 * Unused tokens will be kept track of in the Blackboard *My Grades* area.
@@ -383,7 +423,7 @@ Each token can be used to:
 ## Getting Help
 If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
 
-By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
+By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up.
 
 **Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
@@ -392,7 +432,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 **If you email me, please include “[CS-448]” in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
-**If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
+**If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.**
 
 <img src="http://www.phdcomics.com/comics/archive/phd042215s.gif"><br><a href="http://www.phdcomics.com/comics.php?f=1795">http://www.phdcomics.com/comics.php?f=1795</a>
 
@@ -401,7 +441,7 @@ You may expect that I will get back to you within 24 hours of your email or phon
 ## Code of Conduct/Classroom Civility
 All students are expected to adhere to the policies as outlined in the University’s Student Code of Conduct.
 
-## Student Responsibilities 
+## Student Responsibilities
 * Contribute to a class atmosphere conducive to learning for everyone by asking/answering questions, participating in class discussions. Don’t just lurk!
 * Seek help when necessary
 * Start assignments as soon as they are posted.  Do not wait until the due date to seek help/to do the assignments
@@ -425,14 +465,14 @@ The writing center provides free assistance to students in the areas of research
 Worcester State Library has access to many articles through online databases including J-STOR. In addition many articles and book chapters are available to students through Inter-Library Loan (ILL).  With a little planning, ILL expands your ability to get credible information sources about topics you pursue in your course work.  Finally WSU students are free to use many of the library resources within the consortium. Given all of these resources it is extremely unlikely that you should have to pay for access to individual articles. Please work with the reference librarians to find the appropriate way to access materials you need.  You have already paid for these resources through your fees—please make use of them.
 
 ## Academic Conduct
-Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts. 
+Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts.
 
 **You should familiarize yourself with Worcester State College’s Academic Honesty policy. The policy outlines what constitutes academic dishonesty, what sanctions may be imposed and the procedure for appealing a decision. The complete Academic Honesty Policy appears at: [http://www.worcester.edu/Academic-Policies/](http://www.worcester.edu/Academic-Policies/)**
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
 ## Acknowledgements
-This course is heavily influenced by ongoing discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University beginning during the Fall 2014 semester (with 64 commuting hours in his car, lunches, attending his CS-390 class, and more.) It is also based on materials from the [FOSS2Serve](http://foss2serve.org/index.php/Main_Page)/[Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community. 
+This course is heavily influenced by ongoing discussions with [Dr. Stoney Jackson](http://mars.wne.edu/~hjackson/) of Western New England University beginning during the Fall 2014 semester (with 64 commuting hours in his car, lunches, attending his CS-390 class, and more) and still continuing... It is also based on materials from the [FOSS2Serve](http://foss2serve.org/index.php/Main_Page)/[Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)/[POSSE](http://teachingopensource.org/index.php/POSSE) community.
 
 ## Student Work Retention Policy
 It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
@@ -440,48 +480,54 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-### Section 01 - MW 2:00-3:15pm
-&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday
-:-: | :-: | :-: | :-: | :-: | :-:
-**Week 1** | 21 January<br>**No Class<br>Martin Luther King Holiday** | | 23 January<br>Class | |  
-**Week 2** | 28 January<br>Class | | 30 January<br>Class | |  
-**Week 3** | 4 February<br>Class | | 6 February<br>**Sprint 1 Planning** | | 8 February<br>**Standup<br>Due 11:59pm**
-**Week 4** | 11 February<br>Teams continue working in class | 12 February<br>**Standup<br>Due 11:59pm** | 13 February<br>Teams continue working in class | | 15 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 18 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 20 February<br>**Team Evaluation Due Noon**<hr>**Sprint 1 Review, Retrospective**<br>**Sprint 2 Planning** | | 22 February<br>**Standup<br>Due 11:59pm** 
-**Week 6** | 25 February<br>Teams continue working in class | 26 February<br>**Standup<br>Due 11:59pm** | 27 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | | 1 March<br>**Standup<br>Due 11:59pm**
-**Week 7** | 4 March<br>**Team Evaluation Due Noon**<hr>**Sprint 2 Review, Retrospective** | 5 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 6 March<br>**Sprint 3 Planning** | | 8 March<br>**Standup<br>Due 11:59pm**
+### Teams 1 & 2
+&nbsp; | Monday | Wednesday
+:-: | :-: | :-:
+**Week 1** | 13 January<br>**Introduction** |15 January<br>**Team Formation**
+**Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>**Sprint 1 Planning**
+**Week 3** | 27 January<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning) | 29 January<br>Standup Meeting<br>Teams continue working in class
+**Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
+**Week 5** | 10 February<br>Standup Meeting<br>Teams continue working in class | 12 February<br>**Sprint 1 Review**
+**Week 6** | 17 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>**Sprint 1 Retrospective**
+**Week 7** | 24 February<br>**Sprint 2 Planning** | 26 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)
+**Week 8** | 2 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives) | 4 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)
+**Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
 **Spring Break**
-**Week 8** | 18 March<br>Teams continue working in class | 19 March<br>**Standup<br>Due 11:59pm** | 20 March<br>Teams continue working in class | | 22 March<br>**Standup<br>Due 11:59pm**
-**Week 9** | 25 March<br>**Team Evaluation Due Noon**<hr>**Sprint 3 Review, Retrospective** | 26 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 27 March<br>**Sprint 4 Planning** | | 29 March<br>**Standup<br>Due 11:59pm** 
-**Week 10** | 1 April<br>Teams continue working in class | 2 April<br>**Standup<br>Due 11:59pm** | 3 April<br>Teams continue working in class | | 5 April<br>**Standup<br>Due 11:59pm**
-**Week 11** | 8 April<br>**Team Evaluation Due Noon**<hr>**Sprint 4 Review, Retrospective** | 9 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 10 April<br>**Sprint 5 Planning** | | 12 April<br>**Standup<br>Due 11:59pm**  
-**Week 12** | 15 April<br>**No Class<br>Patriots Day Holiday**  | 16 April<br>**Standup<br>Due 11:59pm** | 17 April<br>Teams continue working in class | | 19 April<br>**Standup<br>Due 11:59pm**
-**Week 13** | 22 April<br>**Team Evaluation Due Noon**<hr>**Sprint 5 Review, Retrospective** | 23 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 24 April<br>**Sprint 6 Planning** | | 26 April<br>**Standup<br>Due 11:59pm**
-**Week 14** | 29 April<br>Teams continue working in class | 30 April<br>**Standup<br>Due 11:59pm** | 1 May<br>Teams continue working in class | | 3 May<br>**Standup<br>Due 11:59pm**
-**Week 15** | 6 May<br>**Team Evaluation Due Noon**<hr>**Sprint 6 Review, Retrospective** | 2 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** |  | |  
-**Finals** | | | 15 May<br>**Final Presentations<br>12:30-3:30pm** | |  
+**Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>**Sprint 2 Review**
+**Week 11** | 30 March<br>**Sprint 2 Retrospective** | 1 April<br>**Sprint 3 Planning**  
+**Week 12** | 6 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews) | 8 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)
+**Week 13** | 13 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning) | 15 April<br>Standup Meeting<br>Teams continue working in class
+**Week 14** | 20 April<br>**No Class<br>Patriots Day Holiday** | 22 April<br>Standup Meeting<br>Teams continue working in class
+**Week 15** | 27 April<br>Standup Meeting<br>Teams continue working in class | 29 April<br>**Sprint 3 Review**
+**Week 16** | 4 May<br>Observe Teams 3 & 4 reviews
 
-### Section 02 - TR 11:30am-12:45pm
-&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday
-:-: | :-: | :-: | :-: | :-: | :-:
-**Week 1** | | 22 January<br>Class | | 24 January<br>Class |  
-**Week 2** | | 29 January<br>Class | | 31 January<br>Class | |  
-**Week 3** | | 5 February<br>Class | | 7 February<br>**Sprint 1 Planning** | |
-**Week 4** | 11 February<br>**Standup<br>Due 11:59pm** | 12 February<br>Teams continue working in class | | 14 February<br>Teams continue working in class | 15 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 18 February<br>**Standup<br>Due 11:59pm** | 19 February<br>**Team Evaluation Due 9:30am**<hr>**Sprint 1 Review, Retrospective** | 20 February<br>**Sprint 1 Retrospective Blog Due 11:59pm** | 21 February<br>**Sprint 2 Planning** | 
-**Week 6** | 25 February<br>**Standup<br>Due 11:59pm** | 26 February<br>Teams continue working in class | | 28 February<br>**No Class<br>I will be at a conference**<br><hr>Teams continue working in class | 1 March<br>**Standup<br>Due 11:59pm** 
-**Week 7** | 4 March<br>**Standup<br>Due 11:59pm** | 5 March<br>**Team Evaluation Due 9:30am**<hr>**Sprint 2 Review, Retrospective** | 6 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 7 March<br>**Sprint 3 Planning** |
+### Teams 3 & 4
+&nbsp; | Monday | Wednesday
+:-: | :-: | :-:
+**Week 1** | 13 January<br>**Introduction** |15 January<br>**Team Formation**
+**Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>Observe Teams 1 & 2 Planning
+**Week 3** | 27 January<br>**Sprint 1 Planning** | 29 January<br>Standup Meeting<br>Teams continue working in class
+**Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
+**Week 5** | 10 February<br>Standup Meeting<br>Teams continue working in class | 12 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**Week 6** | 17 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
+**Week 7** | 24 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | 26 February<br>**Sprint 1 Review**
+**Week 8** | 2 March<br>**Sprint 1 Retrospective** | 4 March<br>**Sprint 2 Planning**
+**Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
 **Spring Break**
-**Week 8** | 18 March<br>**Standup<br>Due 11:59pm** | 19 March<br>Teams continue working in class | | 21 March<br>Teams continue working in class | 22 March<br>**Standup<br>Due 11:59pm**
-**Week 9** | 25 March<br>**Standup<br>Due 11:59pm**  | 26 March<br>**Team Evaluation Due 9:30am**<hr>**Sprint 3 Review, Retrospective** | 27 March<br>**Sprint 3 Retrospective Blog Due 11:59pm** | 28 March<br>**Sprint 4 Planning** | 
-**Week 10** | 1 April<br>**Standup<br>Due 11:59pm** | 2 April<br>Teams continue working in class | | 4 April<br>Teams continue working in class | 5 April<br>**Standup<br>Due 11:59pm**
-**Week 11** | 8 April<br>**Standup<br>Due 11:59pm** | 9 April<br>**Team Evaluation Due 9:30am**<hr>**Sprint 4 Review, Retrospective** | 10 April<br>**Sprint 4 Retrospective Blog Due 11:59pm** | 11 April<br>**Sprint 5 Planning** | 
-**Week 12** | 15 April<br>**Standup<br>Due 11:59pm** | 16 April<br>Teams continue working in class | | 18 April<br>Teams continue working in class | 19 April<br>**Standup<br>Due 11:59pm**
-**Week 13** | 22 April<br>**Standup<br>Due 11:59pm** | 23 April<br>**Team Evaluation Due 9:30am**<hr>**Sprint 5 Review, Retrospective** | 24 April<br>**Sprint 5 Retrospective Blog Due 11:59pm** | 25 April<br>**Sprint 6 Planning** |
-**Week 14** | 29 April<br>**Standup<br>Due 11:59pm** | 30 April<br>Teams continue working in class | | 2 May<br>Teams continue working in class | 3 May<br>**Standup<br>Due 11:59pm**
-**Week 15** | 6 May<br>**Standup<br>Due 11:59pm** | 7 May<br>**Team Evaluation Due 9:30am**<hr>**Sprint 6 Review, Retrospective** | 8 May<br>**Sprint 6 Retrospective Blog Due 11:59pm** | 9 May<br>**Final Presentations<br>12:30-3:30pm**  | |   
+**Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**Week 11** | 30 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives) | 1 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
+**Week 12** | 6 April<br>**Sprint 2 Review** | 8 April<br>**Sprint 2 Retrospective**
+**Week 13** | 13 April<br>**Sprint 3 Planning** | 15 April<br>Standup Meeting<br>Teams continue working in class
+**Week 14** | 20 April<br>**No Class<br>Patriots Day Holiday** | 22 April<br>Standup Meeting<br>Teams continue working in class
+**Week 15** | 27 April<br>Standup Meeting<br>Teams continue working in class | 29 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**Week 16** | 4 April<br>**Sprint 3 Review**
+
+### All Teams
+
+**Friday, 8 May 2020 &mdash; Final Presentations &mdash; 8:30-11:30am**  
+
 
 ## Copyright and License
-#### &copy; 2019 Karl R. Wurst, Worcester State University
+#### &copy; 2020 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA2019
