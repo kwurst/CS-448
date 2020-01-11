@@ -1,4 +1,4 @@
-*Version 2020-Spring-0.9, Revised 6 January 2020*
+*Version 2020-Spring-1.0, Revised 11 January 2020*
 
 ### *CS-448 01 &mdash; Spring 2020*
 
@@ -251,9 +251,9 @@ Your grade for the course will be determined by which assignments and/or how man
 
 Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D
 --- | :-: | :-: | :-: | :-:
-Attendance and Participation (Class Sessions)<br>&nbsp;&nbsp;&mdash; Introduction, Team Formation, and Observation&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Planning&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Review&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Retrospective&nbsp;(out of 2)<br>&nbsp;&nbsp;&mdash; Standup Meeting and Work Classes&nbsp;(out of 17) | <br>3<br>3<br>3<br>2<br>16 | <br>3<br>3<br>3<br>2<br>14 | <br>3<br>3<br>3<br>2<br>12 | <br>2<br>3<br>3<br>2<br>10
-Sprint Planning Preparation &mdash; Individual Grade (3 Sprints) | 3 | 3 | 3 | 3
-Sprint Review &mdash; Team Grade (3 Sprints) | 3 | 3 | 3 | 3
+Attendance and Participation (Class Sessions)<br>&nbsp;&nbsp;&mdash; Introduction/Team Formation, Pre-Planning, and Observation&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Planning&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Review&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Retrospective&nbsp;(out of 2)<br>&nbsp;&nbsp;&mdash; Standup Meeting and Work Classes&nbsp;(out of 17) | <br>3<br>3<br>3<br>2<br>16 | <br>3<br>3<br>3<br>2<br>14 | <br>3<br>3<br>3<br>2<br>12 | <br>2<br>3<br>3<br>2<br>10
+Sprint Planning Preparation (3 Sprints)<br>&nbsp;&nbsp;&mdash; Team Score (3 pts per Sprint) + Individual Score (3 pts per sprint)  | <br>16 pts | <br>14 pts | <br>10 pts | <br>6 pts
+Sprint Review (3 Sprints)<br>&nbsp;&nbsp;&mdash; Team Grade (8 pts per Sprint) | <br>18 pts | <br>16 pts | <br>12 pts | <br>8 pts
 Sprint Retrospective &mdash; Individual Blog Post&nbsp;(3 Sprints) | 3 | 3 | 3 | 3
 <em>Apprenticeship Patterns</em> Blog Posts<br>&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Chapter 1 and Chapter 2-6 Introductions<br>&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Individual <em>Apprenticeship Patterns</em> | <br>&#10004;<br>8 | <br>&#10004;<br>6 | <br>&#10004;<br>4 | <br>&#10004;<br>2
 Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
@@ -297,14 +297,34 @@ The last class of each multi-week sprint will be used to evaluate team performan
 ### Standup Meeting and Work Classes
 The classes in the middle of each multi-week sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
 
-You will also use these classes work in small groups on planning, development, and learning. In addition, teams will be sending observers to other teams' meetings to bring back information on what other teams are doing. The Product Owner (the instructor) may be available for questions during these classes, depending on what other meetings are happening.
+You will also use these classes to work in small groups on planning, development, and learning. In addition, teams will be sending observers to other teams' meetings to bring back information on what other teams are doing. The Product Owner (the instructor) may be available for questions during these classes, depending on what other meetings are happening.
 
-## Sprint Planning Preparation &mdash; Individual Grades
+## Sprint Planning Preparation &mdash; Team Score + Individual Score
 In the week preceding the Sprint Planning meeting, you will preparing for the planning meeting that takes place in class.
 
-You will be graded on what you have done in the preceding week to help prepare for the planning meeting.
+You and your team will be graded on what you have done in the preceding week to help prepare for the planning meeting.
 
-Preparing for Sprint Planning consists of some combination of the following activities:
+### Team Score
+Your team will be assigned a score at the end of the Sprint Planning Meeting that indicates how well the team has planned for the upcoming sprint. This score will be determined by the instructor based on the issues that are placed in the board's To-Do column for the sprint. The following rubric will be used:
+
+Description | Score
+--- | ---
+Clearly enough work planned for the upcoming sprint | 3 pts
+Maybe enough work planned for the upcoming sprint (but not clear) | 2 pts
+Clearly not enough work planned for the upcoming sprint | 1 pt
+No work planned for the upcoming sprint | 0 pts
+
+### Individual Score
+You will be assigned a score after the Sprint Planning Meeting that indicates how well you helped the team prepare for the planning meeting. This score will be determined by the instructor based on the following rubric:
+
+Description | Score
+--- | ---
+Clearly enough planning activities completed | 3 pts
+Maybe enough planning activities completed (but not clear) | 2 pts
+Clearly not enough planning activities completed | 1 pt
+No planning activities completed | 0 pts
+
+Example activities to complete while preparing for Sprint Planning:
 *	Comment on existing issues to help refine them.		
 *	Create new issues for missing items.
 *	Identify issues that you think should be closed, and explain why.			
@@ -317,26 +337,56 @@ Preparing for Sprint Planning consists of some combination of the following acti
 *	Apply or remove labels appropriately, and explain why.			
 *	Respond to someone else's comment (emojis are acceptable).
 
-<font color=red>More details on how this translates into a grade to be developed.</font>
-
-## Sprint Review &mdash; Team Grades
-During the Sprint Review meeting, you will be graded ***as a team*** on how much was accomplished during the preceding sprint.
+## Sprint Review &mdash; Team Score
+During and immediately after the Sprint Review meeting, you will be graded ***as a team*** on how much was accomplished during the preceding sprint.
 
 The grading criteria include:
-* GitLab is being used effectively to coordinate the team	(Planning, discussing, documenting, coordinating, etc.)
-* Demo can run on instructor's machine.
-* Sufficient progress was made on the project.
-  * What goals were achieved?
-  * What major accomplishments towards a goal were achieved?
-  * The ratio between major goals and accomplishments toward a goal completed will change over the semester. As a rough guideline:
+* Demo of the completed sprint work &mdash; up to 2 points
+* GitLab is being used effectively to coordinate the team &mdash; up to 3 points
+* Sufficient progress was made on the project &mdash; up to 3 points
 
-Sprint # | Goals Achieved | Major Accomplishments toward a Goal achieved
-:-: | :-: | :-:
-1 | 30% | 70%
-2 | 50% | 50%
-3 | 70% | 30%
+### Demo of the completed sprint work
+Description | Score
+--- | ---
+Work is available in the project's GitLab space | 1 pt
+Work can be demonstrated on the instructor's computer or using LibreFoodPantry infrastructure | 1 pt
 
-<font color=red>More details on how this translates into a grade to be developed.</font>
+### GitLab is being used effectively to coordinate the team	(planning, discussing, documenting, coordinating, etc.)
+Description | Score
+--- | ---
+Clearly good enough | 3 pts
+Could be improved | 2 pts
+Clearly not good enough | 1 pt
+GitLab is not be used at all | 0 pts
+
+Example activities that show the use of GitLab to coordinate the team:
+* Move an item on the board.
+* Edit issue titles and/or descriptions, and explain why.
+*	Comment on existing issues to help refine them.		
+*	Create new issues for missing items.
+*	Identify issues that you think should be closed, and explain why.			
+*	Ask or answer clarifying questions on an issue.			
+*	Assign a weight to an issue, and explain why.			
+* Assign a deadline to an issue, and explain why.		
+*	Assign an issue to someone, and explain why.			
+*	Document resources useful for completing a task.		
+*	Provide a plan, checklist, or list of steps for completing a task.		
+*	Apply or remove labels appropriately, and explain why.			
+*	Respond to someone else's comment (emojis are acceptable).
+* Create a branch.
+* Make a commit to a branch.
+* Review someone else's code.
+
+### Sufficient progress was made on the project
+This will be determined by the acceptance criteria cooperatively set with the Product Owner during Sprint Planning. Acceptance criteria can be renegotiated with the Product Owner, with suitable justification, at least one week before the Sprint Review.
+
+Percentage of To-Do Items Completed | Score
+--- | ---
+&geq; 75% | 3 pts
+&geq; 50% | 2 pts
+&geq; 25% | 1 pt
+&lt; 25% | 0 pts
+
 ## Sprint Retrospective &mdash; Individual Blog Posts
 At the end of each sprint, you will post a Sprint Retrospective blog post about your learning in the class, the work and work products you are producing, etc. (Details below in the `Blog Posts` section.)
 
@@ -483,7 +533,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 ### Teams 1 & 2
 &nbsp; | Monday | Wednesday
 :-: | :-: | :-:
-**Week 1** | 13 January<br>**Introduction** |15 January<br>**Team Formation**
+**Week 1** | 13 January<br>**Introduction and Team Formation** |15 January<br>**Pre-Planning**
 **Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>**Sprint 1 Planning**
 **Week 3** | 27 January<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning) | 29 January<br>Standup Meeting<br>Teams continue working in class
 **Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
@@ -504,7 +554,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 ### Teams 3 & 4
 &nbsp; | Monday | Wednesday
 :-: | :-: | :-:
-**Week 1** | 13 January<br>**Introduction** |15 January<br>**Team Formation**
+**Week 1** | 13 January<br>**Introduction and Team Formation** |15 January<br>**Pre-Planning**
 **Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>Observe Teams 1 & 2 Planning
 **Week 3** | 27 January<br>**Sprint 1 Planning** | 29 January<br>Standup Meeting<br>Teams continue working in class
 **Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
