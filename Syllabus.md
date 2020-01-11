@@ -542,7 +542,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 **Week 7** | 24 February<br>**Sprint 2 Planning** | 26 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)
 **Week 8** | 2 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives) | 4 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)
 **Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-**Spring Break**
+**Spring Break** | <hr> | <hr>
 **Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>**Sprint 2 Review**
 **Week 11** | 30 March<br>**Sprint 2 Retrospective** | 1 April<br>**Sprint 3 Planning**  
 **Week 12** | 6 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews) | 8 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)
@@ -563,7 +563,7 @@ It is my policy to securely dispose of student work one calendar year after grad
 **Week 7** | 24 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | 26 February<br>**Sprint 1 Review**
 **Week 8** | 2 March<br>**Sprint 1 Retrospective** | 4 March<br>**Sprint 2 Planning**
 **Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-**Spring Break**
+**Spring Break** | <hr> | <hr>
 **Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
 **Week 11** | 30 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives) | 1 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
 **Week 12** | 6 April<br>**Sprint 2 Review** | 8 April<br>**Sprint 2 Retrospective**
