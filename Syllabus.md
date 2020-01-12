@@ -1,4 +1,4 @@
-*Version 2020-Spring-1.0, Revised 11 January 2020*
+*Version 2020-Spring-1.1, Revised 12 January 2020*
 
 ### *CS-448 01 &mdash; Spring 2020*
 
@@ -80,9 +80,9 @@ The ACM is the world's largest educational and scientific computing professional
 * Your professional career
 
 ## Course Workload Expectations
-***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per week on this class.***
+***This is a three-credit project-based course. You should expect to spend, on average, 9 hours per on this class.***
 
-You will spend 3 hours per week in class participating in Scrum meetings and working with your team. In addition, you should expect to spend, on average, at least 6 hours per week during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
+You will spend 3 hours per in class participating in Scrum meetings and working with your team. In addition, you should expect to spend, on average, at least 6 hours per during the semester outside of class, writing code and documentation, learning new tools and techniques, and communicating with the team. (See *Definition of the Credit Hour*)
 
 ***The bulk of your work in this course will take place outside of the class time. It is not possible to contribute the amount of work your team and the class need to be successful entirely within the 3 hours of class time. If you attempt to do so, you will not only receive a poor grade in the course, but will also be letting down your classmates, and giving a poor impression of your reliability and quality of work to your classmates and to members of the professional community.***
 
@@ -91,7 +91,7 @@ You will spend 3 hours per week in class participating in Scrum meetings and wor
 ## Definition of the Credit Hour
 >Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
 
->1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or
+>1.	One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each for approximately fifteen weeks for one semester or trimester hour of credit, or ten to twelve weeks for one quarter hour of credit, or the equivalent amount of work over a different amount of time; or
 2.	At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, [Policy on Credits and Degrees](http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf)
@@ -268,7 +268,7 @@ Final Presentation | &#10004; | &#10004; | &#10004; | &#10004;
 
 *Note:*
 
-* The limits for the number of assignments to be submitted in a single week still apply.
+* The limits for the number of assignments to be submitted in a single still apply.
 * WSU has no A+ grade.
 
 ## Attendance and Participation (In-Class)
@@ -286,23 +286,23 @@ For your Attendance and Participation for a particular class to be marked ***Mee
 For the first two classes, we will be discussing the LibreFoodPantry project and architecture, and forming our teams for the semester. Each team will also have a class where they are expected to observe another team's meeting (but not participate).
 
 ### Sprint Planning Classes
-The first class of each multi-week sprint will be used for the team to plan the upcoming sprint. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, and will help with the planning.
+The first class of each multi-sprint will be used for the team to plan the upcoming sprint. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, and will help with the planning.
 
 ### Sprint Review Classes
-The next-to-last class of each multi-week sprint will be used to review completed work. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, will be the one you are presenting the completed work to, and will make the determination of whether to accept work as "done".
+The next-to-last class of each multi-sprint will be used to review completed work. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, will be the one you are presenting the completed work to, and will make the determination of whether to accept work as "done".
 
 ### Sprint Retrospective Classes
-The last class of each multi-week sprint will be used to evaluate team performance, and decide on changes to make to team process. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, mostly as an observer.
+The last class of each multi-sprint will be used to evaluate team performance, and decide on changes to make to team process. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, mostly as an observer.
 
 ### Standup Meeting and Work Classes
-The classes in the middle of each multi-week sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
+The classes in the middle of each multi-sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
 
 You will also use these classes to work in small groups on planning, development, and learning. In addition, teams will be sending observers to other teams' meetings to bring back information on what other teams are doing. The Product Owner (the instructor) may be available for questions during these classes, depending on what other meetings are happening.
 
 ## Sprint Planning Preparation &mdash; Team Score + Individual Score
-In the week preceding the Sprint Planning meeting, you will preparing for the planning meeting that takes place in class.
+In the preceding the Sprint Planning meeting, you will preparing for the planning meeting that takes place in class.
 
-You and your team will be graded on what you have done in the preceding week to help prepare for the planning meeting.
+You and your team will be graded on what you have done in the preceding to help prepare for the planning meeting.
 
 ### Team Score
 Your team will be assigned a score at the end of the Sprint Planning Meeting that indicates how well the team has planned for the upcoming sprint. This score will be determined by the instructor based on the issues that are placed in the board's To-Do column for the sprint. The following rubric will be used:
@@ -378,7 +378,7 @@ Example activities that show the use of GitLab to coordinate the team:
 * Review someone else's code.
 
 ### Sufficient progress was made on the project
-This will be determined by the acceptance criteria cooperatively set with the Product Owner during Sprint Planning. Acceptance criteria can be renegotiated with the Product Owner, with suitable justification, at least one week before the Sprint Review.
+This will be determined by the acceptance criteria cooperatively set with the Product Owner during Sprint Planning. Acceptance criteria can be renegotiated with the Product Owner, with suitable justification, at least one before the Sprint Review.
 
 Percentage of To-Do Items Completed | Score
 --- | ---
@@ -427,7 +427,7 @@ For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***
 
 * A *short* summary of the pattern.
 * Your reaction to the pattern. What did you find interesting, useful, thought-provoking about the pattern? Has the pattern caused you to change the way you think about your intended profession, or how you think you will work? Do you disagree with something in the paterns? And why?
-* The tag for the week in which the post was made, E.g. Week-1. (See the Schedule at the end of this syllabus for week numbers.)
+* The tag for the in which the post was made, E.g. Week-1. (See the Schedule at the end of this syllabus for numbers.)
 * 350-450 words.
 * I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.**
 
@@ -496,7 +496,7 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Seek help when necessary
 * Start assignments as soon as they are posted.  Do not wait until the due date to seek help/to do the assignments
 * Make use of the academic success center (see below)
-* Expect to spend at least 9 hours of work per week on classwork.
+* Expect to spend at least 9 hours of work per on classwork.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
 ## Accessibility Statement
@@ -530,51 +530,25 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-### Teams 1 & 2
-&nbsp; | Monday | Wednesday
-:-: | :-: | :-:
-**Week 1** | 13 January<br>**Introduction and Team Formation** |15 January<br>**Pre-Planning**
-**Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>**Sprint 1 Planning**
-**Week 3** | 27 January<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning) | 29 January<br>Standup Meeting<br>Teams continue working in class
-**Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 10 February<br>Standup Meeting<br>Teams continue working in class | 12 February<br>**Sprint 1 Review**
-**Week 6** | 17 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>**Sprint 1 Retrospective**
-**Week 7** | 24 February<br>**Sprint 2 Planning** | 26 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)
-**Week 8** | 2 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives) | 4 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)
-**Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-**Spring Break** | <hr> | <hr>
-**Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>**Sprint 2 Review**
-**Week 11** | 30 March<br>**Sprint 2 Retrospective** | 1 April<br>**Sprint 3 Planning**  
-**Week 12** | 6 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews) | 8 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)
-**Week 13** | 13 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning) | 15 April<br>Standup Meeting<br>Teams continue working in class
-**Week 14** | 20 April<br>**No Class<br>Patriots Day Holiday** | 22 April<br>Standup Meeting<br>Teams continue working in class
-**Week 15** | 27 April<br>Standup Meeting<br>Teams continue working in class | 29 April<br>**Sprint 3 Review**
-**Week 16** | 4 May<br>Observe Teams 3 & 4 reviews
-
-### Teams 3 & 4
-&nbsp; | Monday | Wednesday
-:-: | :-: | :-:
-**Week 1** | 13 January<br>**Introduction and Team Formation** |15 January<br>**Pre-Planning**
-**Week 2** | 20 January<br>**No Class<br>Martin Luther King Holiday** | 22 January<br>Observe Teams 1 & 2 Planning
-**Week 3** | 27 January<br>**Sprint 1 Planning** | 29 January<br>Standup Meeting<br>Teams continue working in class
-**Week 4** | 3 February<br>Standup Meeting<br>Teams continue working in class | 5 February<br>Standup Meeting<br>Teams continue working in class | 7 February<br>**Standup<br>Due 11:59pm**
-**Week 5** | 10 February<br>Standup Meeting<br>Teams continue working in class | 12 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**Week 6** | 17 February<br>**No Class<br>Presidents Day Holiday** | 19 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
-**Week 7** | 24 February<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | 26 February<br>**Sprint 1 Review**
-**Week 8** | 2 March<br>**Sprint 1 Retrospective** | 4 March<br>**Sprint 2 Planning**
-**Week 9** | 9 March<br>Standup Meeting<br>Teams continue working in class | 11 March<br>Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-**Spring Break** | <hr> | <hr>
-**Week 10** | 23 March<br>Standup Meeting<br>Teams continue working in class | 25 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**Week 11** | 30 March<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives) | 1 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
-**Week 12** | 6 April<br>**Sprint 2 Review** | 8 April<br>**Sprint 2 Retrospective**
-**Week 13** | 13 April<br>**Sprint 3 Planning** | 15 April<br>Standup Meeting<br>Teams continue working in class
-**Week 14** | 20 April<br>**No Class<br>Patriots Day Holiday** | 22 April<br>Standup Meeting<br>Teams continue working in class
-**Week 15** | 27 April<br>Standup Meeting<br>Teams continue working in class | 29 April<br>Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**Week 16** | 4 April<br>**Sprint 3 Review**
-
-### All Teams
-
-**Friday, 8 May 2020 &mdash; Final Presentations &mdash; 8:30-11:30am**  
+Week | Monday | Wednesday | &nbsp;
+:-: | --- | --- | ---
+**1** | ***13 January***<hr>**All Teams:** Introduction and Team Formation |***15 January***<hr>**Teams 1 & 2:** Pre-Planning<hr>**Teams 3 & 4:** Observe Teams 1 & 2 planning
+**2** | ***20 January***<hr>**No Class<br>Martin Luther King Holiday** | ***22 January***<hr>**Teams 1 & 2:** Teams continue planning in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Pre-Planning
+**3** | ***27 January***<hr>**Teams 1 & 2:** Sprint 1 Planning<hr>**Teams 3 & 4:** Teams continue planning in class<br>(Send observer to Teams 1 & 2 planning) | ***29 January***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 1 Planning
+**4** | ***3 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***5 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**5** | ***10 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***12 February***<hr>**Teams 1 & 2:** Sprint 1 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**6** | ***17 February***<hr>**No Class<br>Presidents Day Holiday** | ***19 February***<hr>**Teams 1 & 2:** Sprint 1 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
+**7** | ***24 February***<hr>**Teams 1 & 2:** Sprint 2 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***26 February***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 1 Review
+**8** | ***2 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 1 Retrospective | ***4 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 2 Planning
+**9** | ***9 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***11 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
+**Spring<br>Break** | <hr> | <hr>
+**10** | ***23 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 March***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**11** | ***30 March***<hr>**Teams 1 & 2:** Sprint 2 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives) | ***1 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
+**12** | ***6 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review | ***8 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 2 Retrospective
+**13** | ***13 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***15 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**14** | ***20 April***<hr>**No Class<br>Patriots Day Holiday** | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**15** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**16** | ***4 May***<hr>**Teams 1 & 2:** Observe Teams 3 & 4 reviews<hr>**Teams 3 & 4:** Sprint 3 Review | ***20 April***<hr>**No Class<br>Reading Day** |**Friday 8 May**<hr>**All Teams:**<br>Final Presentations<br>**8:30-11:30am**  
 
 ## Copyright and License
 #### &copy; 2020 Karl R. Wurst and Stoney Jackson
