@@ -2,9 +2,6 @@
 
 ### *CS-448 01 &mdash; Spring 2020*
 
-<font color=red size=7>DRAFT</font><br>
-<font color=red size=4>This is a draft version. It is subject to change until the first day of class on 13 January 2020.</font>
-
 # Software Development Capstone
 
 ## Credit and Contact Hours
