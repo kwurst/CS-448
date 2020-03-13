@@ -1,4 +1,4 @@
-*Version 2020-Spring-1.1, Revised 12 January 2020*
+*Version 2020-Spring-1.2, Revised 13 March 2020*
 
 ### *CS-448 01 &mdash; Spring 2020*
 
@@ -538,14 +538,14 @@ Week | Monday | Wednesday | &nbsp;
 **7** | ***24 February***<hr>**Teams 1 & 2:** Sprint 2 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***26 February***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 1 Review
 **8** | ***2 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 1 Retrospective | ***4 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 2 Planning
 **9** | ***9 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***11 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-**Spring<br>Break** | <hr> | <hr>
-**10** | ***23 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 March***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**11** | ***30 March***<hr>**Teams 1 & 2:** Sprint 2 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives) | ***1 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
-**12** | ***6 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review | ***8 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 2 Retrospective
-**13** | ***13 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***15 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**14** | ***20 April***<hr>**No Class<br>Patriots Day Holiday** | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**15** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**16** | ***4 May***<hr>**Teams 1 & 2:** Observe Teams 3 & 4 reviews<hr>**Teams 3 & 4:** Sprint 3 Review | ***20 April***<hr>**No Class<br>Reading Day** |**Friday 8 May**<hr>**All Teams:**<br>Final Presentations<br>**8:30-11:30am**  
+<hr> | **Spring Break Week 1** | <hr>
+<hr> | **Spring Break Week 2** | <hr>
+**10** | ***30 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***1 April***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**11** | ***6 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***8 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review
+**12** | ***13 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***15 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**13** | ***20 April***<hr>**No Class<br>Patriots Day Holiday** | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**14** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**15** | ***4 May***<hr>**Teams 1 & 2:** Observe Teams 3 & 4 reviews<hr>**Teams 3 & 4:** Sprint 3 Review | ***20 April***<hr>**No Class<br>Reading Day** |**Friday 8 May**<hr>**All Teams:**<br>Final Presentations<br>**8:30-11:30am**  
 
 ## Copyright and License
 #### &copy; 2020 Karl R. Wurst and Stoney Jackson
