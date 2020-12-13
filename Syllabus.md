@@ -1,6 +1,8 @@
-*Version 2020-Spring-1.2, Revised 13 March 2020*
+*Version 2021-Spring-0.1, Revised 12 December 2020*
 
-### *CS-448 01 &mdash; Spring 2020*
+# DRAFT - This syllabus is subject to change until the first day of class on 2 February 2021.
+
+### *CS-448 01 &mdash; Spring 2021*
 
 # Software Development Capstone
 
@@ -16,8 +18,8 @@ Dr. Karl R. Wurst<br>
 See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Time and Location
-Mondays and Wednesdays 8:00-9:15am<br>
-Sullivan 105
+Tuesdays and Thursdays 8:30-9:45am<br>
+Online in Discord
 
 ## It's in the Syllabus
 <img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
@@ -29,31 +31,32 @@ If you have a question, please check the syllabus first, and then ask if you can
 
 ## Textbooks
 
-<a href="https://commons.wikimedia.org/wiki/File:OER_Logo.svg#/media/File:OER_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OER_Logo.svg/1200px-OER_Logo.svg.png" alt="OER Logo.svg" width="300"></a><br>&nbsp;(Image by <span lang="en">Unknown</span><a href="https://www.wikidata.org/wiki/Q4233718" title="wikidata:Q4233718"></a> - Unknown, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=18856750">Link</a>)
-
-**Only FREE Open Educational Resources will be used for this Course/Section.**
-
-Access information is given below:
-
+## Textbook
 <table cellpadding="1" border="0">
 <tbody>
+<tr>
+</tr>
+<td align="center"><a href="https://services.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student"><img width="700" alt="ACM logo" src="https://www.acm.org/images/top-menu/acm_logo_tablet.svg" /></a>
+</td>
+<td>This course requires an ACM Student Membership. For the <a href="https://services.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student">$19 student membership</a>, students get access to <a href="https://www.oreilly.com/online-learning/features.html">O'Reilly Online Learning</a> which includes hundreds of textbooks, videos, and training courses.<br><br>We will be using multiple learning resources from O'Reilly Online Learning for topics in this course.<br><br>The ACM Student Membership is good for a year.
+</td>
+<tr>
+<td align="center"><a title="By Michael Reschke (self-made, following OERCommons.org&#039;s example) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOERlogo.svg"><img width="100" alt="OERlogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/OERlogo.svg/256px-OERlogo.svg.png"/></a>
+</td>
+<td>We will also be using freely available learning resources for topics in this course.
+</td>
+</tr>
 <tr>
 <td>
 <p><img src="http://cs.worcester.edu/kwurst/img/9780596518387.gif" width="110" /></p>
 </td>
 <td><em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em><br> Dave Hoover and Adewale Oshineye<br />O'Reilly Media, 2009<br>ISBN-13: 9780596518387<br>
 <a target="_blank" href="http://shop.oreilly.com/product/9780596518387.do">Website</a><br>
-<a target="_blank" href="https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/#toc-start">Read the whole text online here</a><br></td>
+This book is available through the ACM Student Membership for free.
 </tr>
 <tr>
 <td><img src="http://cs.worcester.edu/kwurst/img/scrum-intro-cover-front-outlined-400-207x300.jpg" width="110" /></td>
 <td><em>Scrum: A Breathtakingly Brief and Agile Introduction</em><br /> Chris Sims and Hillary Louise Johnson<br /> Dymaxicon, 2012<br /> ISBN-13: 9781937965044<br /> <a href="http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1333650002" target="_blank">Available as a $0.99 Kindle book</a><br /> <a href="http://www.agilelearninglabs.com/resources/scrum-introduction/" target="_blank">Read the whole text online here</a></td>
-</tr>
-<tr>
-<td><img src="http://cs.worcester.edu/kwurst/img/1802_image001.jpg" width="110" /></td>
-<td>
-<p><em>Version Control by Example</em><br /> Eric Sink<br /> Source Gear, 2011<br /> ISBN-13: 9780983507901<br /> <a href="https://ericsink.com/vcbe/index.html" target="_blank">Free downloads available here</a></p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -68,10 +71,6 @@ In addition to the textbook, to successfully complete this course you will need:
     3. **Blogging site** &mdash; You will blogging about your sprints and about your readings in <em>Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</em>
     4.	**Tutorials and articles** &mdash; I will suggest, and you will research on your own, tutorials and articles for you to learn new technologies and techniques we need.
 
-## ACM Student Membership
-It is *strongly* suggested that you have an <a href="http://www.acm.org/membership/student/" target="_blank">ACM Student Membership</a>. An ACM Student Membership costs only $19 and you get access to a <a href="http://www.acm.org/membership/membership/student/benefits" target="_blank">large list of benefits</a>.
-
-The ACM is the world's largest educational and scientific computing professional society. As a soon-to-be professional in computing, you should be a member to keep up-to-date with advancements in the field. And it looks great on your resume!
 
 ## Where Does This Course Lead?
 * Your professional career
@@ -95,27 +94,24 @@ You will spend 3 hours per in class participating in Scrum meetings and working 
 
 ## Prerequisites
 * CS 343 Software Construction, Design and Architecture
-* CS 348 Software Process Management (Corequisite)
-* CS 373 Operating Systems
-* CS 443 Software Quality Assurance and Testing
+* CS 348 Software Process Management
+* CS 373 Operating Systems (corequisite)
+* CS 443 Software Quality Assurance and Testing (corequisite)
 
 This course has a prerequisite of CS 343 - Software Construction, Design and Architecture. I expect that you understand good software design and construction principles, can read code and comprehend the design of a system, can design and build software as part of a larger system using good design principles.
 
-This course has a prerequisite or corequisite of CS 348 – Software Process Management. You will either have (or be developing) some familiarity with the software development process, with some team processes, collaboration tools, and will use them as your team works on its project during this semester.
+This course has a prerequisite of CS 348 – Software Process Management. You will either have some familiarity with the software development process, with some team processes, collaboration tools, and will use them as your team works on its project during this semester.
 
-This course has a prerequisite of CS 373 - Operating Systems. I expect you to understand some of the problems of large, concurrent systems that manage system resources, as the system we are developing will be using concurrency.
+This course has a prerequisite or corequisite of CS 373 - Operating Systems. I expect you to understand (or be learning) some of the problems of large, concurrent systems that manage system resources, as the system we are developing will be using concurrency.
 
-This course has a prerequisite of CS 443 - Software Quality Assurance and Testing. I expect you to be able to develop and implement appropriate test cases, and be able to use test automation systems.
+This course has a prerequisite or corequisite of CS 443 - Software Quality Assurance and Testing. I expect you to be able to develop and implement appropriate test cases, and be able to use test automation systems.
 
-CS 373 required CS 282 - UNIX System Programming. I expect you to have some familitarity with command-line interfaces and low-level systems coding.
-
-CS 343 and CS 282 required CS 242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
-
-CS 348 required CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
-
-CS 348 required UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis.
-
-CS 343 and CS 373 required EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
+In addition, I expect you to have taken the following (or their equivalents):
+ * CS 282 - UNIX System Programming. I expect you to have some familitarity with command-line interfaces and low-level systems coding.
+ * CS 242 – Data Structures. I expect that you have a solid background in fundamental data structures, such as lists, queues and trees, know how to use them and how to implement them, and when to select a data structure for a particular problem. I also expect you to be a proficient coder and debugger.
+ * CM 110 – Public Speaking. You should be able to structure and give a professional-quality presentation.
+ * PH 134 - Computing Ethics or UR 230 – Technology, Public Policy and Urban Society. I expect that you are able to evaluate the course project for ethical and professional considerations, and write a well-constructed, well-reasoned, and well-supported analysis.
+ * EN 252 – Technical Writing. You should be able to write professionally. You should be able to write professional-quality reports, memos and documentation.
 
 ***If you are missing any of this background, you should not take this course.***
 
@@ -248,7 +244,7 @@ Your grade for the course will be determined by which assignments and/or how man
 
 Assignment | Earn<br>Base<br>Grade<br>A | Earn<br>Base<br>Grade<br>B | Earn<br>Base<br>Grade<br>C | Earn<br>Base<br>Grade<br>D
 --- | :-: | :-: | :-: | :-:
-Attendance and Participation (Class Sessions)<br>&nbsp;&nbsp;&mdash; Introduction/Team Formation, Pre-Planning, and Observation&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Planning&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Review&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Retrospective&nbsp;(out of 2)<br>&nbsp;&nbsp;&mdash; Standup Meeting and Work Classes&nbsp;(out of 17) | <br>3<br>3<br>3<br>2<br>16 | <br>3<br>3<br>3<br>2<br>14 | <br>3<br>3<br>3<br>2<br>12 | <br>2<br>3<br>3<br>2<br>10
+Attendance and Participation (Class Sessions)<br>&nbsp;&nbsp;&mdash; Introduction/Team Formation, Pre-Planning, and Observation&nbsp;(out of 4)<br>&nbsp;&nbsp;&mdash; Sprint Planning&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Review&nbsp;(out of 3)<br>&nbsp;&nbsp;&mdash; Sprint Retrospective&nbsp;(out of 2)<br>&nbsp;&nbsp;&mdash; Standup Meeting and Work Classes&nbsp;(out of 16) | <br>4<br>3<br>3<br>2<br>15 | <br>4<br>3<br>3<br>2<br>13 | <br>4<br>3<br>3<br>2<br>11 | <br>3<br>3<br>3<br>2<br>9
 Sprint Planning Preparation (3 Sprints)<br>&nbsp;&nbsp;&mdash; Team Score (3 pts per Sprint) + Individual Score (3 pts per sprint)  | <br>16 pts | <br>14 pts | <br>10 pts | <br>6 pts
 Sprint Review (3 Sprints)<br>&nbsp;&nbsp;&mdash; Team Grade (8 pts per Sprint) | <br>18 pts | <br>16 pts | <br>12 pts | <br>8 pts
 Sprint Retrospective &mdash; Individual Blog Post&nbsp;(3 Sprints) | 3 | 3 | 3 | 3
@@ -280,19 +276,19 @@ For your Attendance and Participation for a particular class to be marked ***Mee
 **Each of the four teams will have a slightly different schedule for the types of classes listed below.  See the schedule at the end of this syllabus for details.**
 
 ### Introduction, Team Formation, and Observation Classes
-For the first two classes, we will be discussing the LibreFoodPantry project and architecture, and forming our teams for the semester. Each team will also have a class where they are expected to observe another team's meeting (but not participate).
+For the first three classes, we will be discussing the LibreFoodPantry project and architecture, and forming our teams for the semester. Each team will also have a class where they are expected to observe another team's meeting (but not participate).
 
 ### Sprint Planning Classes
-The first class of each multi-sprint will be used for the team to plan the upcoming sprint. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, and will help with the planning.
+The first class of each sprint will be used for the team to plan the upcoming sprint. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, and will help with the planning.
 
 ### Sprint Review Classes
-The next-to-last class of each multi-sprint will be used to review completed work. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, will be the one you are presenting the completed work to, and will make the determination of whether to accept work as "done".
+The next-to-last class of each sprint will be used to review completed work. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, will be the one you are presenting the completed work to, and will make the determination of whether to accept work as "done".
 
 ### Sprint Retrospective Classes
-The last class of each multi-sprint will be used to evaluate team performance, and decide on changes to make to team process. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, mostly as an observer.
+The last class of each sprint will be used to evaluate team performance, and decide on changes to make to team process. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) will be a participant in this meeting, mostly as an observer.
 
 ### Standup Meeting and Work Classes
-The classes in the middle of each multi-sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
+The classes in the middle of each sprint will be used to participate in a Standup Meeting to keep your team informed of what you have done, what you plan to do next, and any problems you are having. This meeting will be facilitated by the team's Scrum Master. The Product Owner (the instructor) may observe, depending on what other meetings are happening.
 
 You will also use these classes to work in small groups on planning, development, and learning. In addition, teams will be sending observers to other teams' meetings to bring back information on what other teams are doing. The Product Owner (the instructor) may be available for questions during these classes, depending on what other meetings are happening.
 
@@ -429,7 +425,7 @@ For your Individual <em>Apprenticeship Patterns</em> Blog Posts to be marked ***
 * I will only accept one blog entry per week. **You cannot wait until the end of the semester and then turn in all of your blog entries.**
 
 ## Final Presentation
-Final presentations by teams on their work and experience will be given during our scheduled final exam period: **Friday, 8 May 2020 &mdash; 8:30-11:30am**
+Final presentations by teams on their work and experience will be given during our scheduled final exam period: **Tuesday, 11 May 2021 &mdash; 8:00-10:30am**
 
 ## Deliverables
 All work will be submitted electronically through a variety of tools. The due date and time will be given on the assignment. The submission date and time will be determined by the submission timestamp of the tool used.
@@ -483,7 +479,7 @@ You may contact me by email (Karl.Wurst@worcester.edu), telephone (+1-508-929-87
 
 <img src="http://www.phdcomics.com/comics/archive/phd042215s.gif"><br><a href="http://www.phdcomics.com/comics.php?f=1795">http://www.phdcomics.com/comics.php?f=1795</a>
 
-You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
+My goal is to get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner. If you have not heard from me after 24 hours, please remind me.
 
 ## Code of Conduct/Classroom Civility
 All students are expected to adhere to the policies as outlined in the University’s Student Code of Conduct.
@@ -497,7 +493,7 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
 ## Accessibility Statement
-Worcester State University is committed to providing reasonable academic accommodations for all students with disabilities.  If you have a disability and are concerned about the format or requirements of this course, please meet with me to discuss ways to ensure full participation.  Students must be registered with Student Accessibility Services in order to receive academic accommodations.  Student Accessibility Services is located in the Administration Building, Room 131, and can be reached by phone (508/929-8733 or email (sas@worcester.edu).  Please notify me if you need this syllabus in an alternative format.
+Worcester State University values the diversity of all of our students, faculty and staff. We recognize the importance of each student’s contribution to our campus community. WSU is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations so that each student may fully participate in programs and services at WSU. If you have a disability that requires reasonable accommodations, please contact Student Accessibility Services at SAS@worcester.edu or 508-929-8733. Please be aware that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their provision.
 
 ## Tutoring Services/Academic Success Center
 Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
@@ -527,25 +523,23 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-Week | Monday | Wednesday | &nbsp;
-:-: | --- | --- | ---
-**1** | ***13 January***<hr>**All Teams:** Introduction and Team Formation |***15 January***<hr>**Teams 1 & 2:** Pre-Planning<hr>**Teams 3 & 4:** Observe Teams 1 & 2 planning
-**2** | ***20 January***<hr>**No Class<br>Martin Luther King Holiday** | ***22 January***<hr>**Teams 1 & 2:** Teams continue planning in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Pre-Planning
-**3** | ***27 January***<hr>**Teams 1 & 2:** Sprint 1 Planning<hr>**Teams 3 & 4:** Teams continue planning in class<br>(Send observer to Teams 1 & 2 planning) | ***29 January***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 1 Planning
-**4** | ***3 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***5 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**5** | ***10 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***12 February***<hr>**Teams 1 & 2:** Sprint 1 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**6** | ***17 February***<hr>**No Class<br>Presidents Day Holiday** | ***19 February***<hr>**Teams 1 & 2:** Sprint 1 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
-**7** | ***24 February***<hr>**Teams 1 & 2:** Sprint 2 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***26 February***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 1 Review
-**8** | ***2 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 1 Retrospective | ***4 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 2 Planning
-**9** | ***9 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***11 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class<br>(I will be away at a conference)
-<hr> | **Spring Break Week 1** | <hr>
-<hr> | **Spring Break Week 2** | <hr>
-**10** | ***30 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***1 April***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**11** | ***6 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***8 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review
-**12** | ***13 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***15 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**13** | ***20 April***<hr>**No Class<br>Patriots Day Holiday** | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**14** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**15** | ***4 May***<hr>**Teams 1 & 2:** Observe Teams 3 & 4 reviews<hr>**Teams 3 & 4:** Sprint 3 Review | ***20 April***<hr>**No Class<br>Reading Day** |**Friday 8 May**<hr>**All Teams:**<br>Final Presentations<br>**8:30-11:30am**  
+Week | Tuesday | Thursday
+:-: | --- | ---
+**1** | ***2 February***<hr>**All Teams:** Introduction and Team Formation | ***4 February***<hr>**Teams 1 & 2:** Pre-Planning<hr>**Teams 3 & 4:** Observe Teams 1 & 2 planning
+**2** | ***9 February***<hr>**Teams 1 & 2:** Teams continue planning in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Pre-Planning | ***11 February***<hr>**Teams 1 & 2:** Sprint 1 Planning<hr>**Teams 3 & 4:** Teams continue planning in class<br>(Send observer to Teams 1 & 2 planning)
+**3** | ***16 February***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 1 Planning | ***18 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**4** | ***23 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**5** | ***2 March***<hr>**Teams 1 & 2:** Sprint 1 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews) | ***4 March***<hr>**Teams 1 & 2:** Sprint 1 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
+**6** | ***9 March***<hr>**Teams 1 & 2:** Sprint 2 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***11 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 1 Review
+**7** | ***16 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 1 Retrospective | ***18 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 2 Planning
+**8** | ***23 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**9** | ***30 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***1 April***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+**10** | ***6 April***<hr>**Teams 1 & 2:** Sprint 2 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospective) | ***8 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
+**11** | ***13 April***<hr>**Teams 1 & 2:** **Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review | ***15 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospective)<hr>**Teams 3 & 4:** Sprint 2 Retrospective
+**12** | ***20 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**13** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
+**14** | ***4 May***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews) | ***6 May***<hr>**Teams 1 & 2:** (Send observer to Teams 3 & 24 reviews)<hr>**Teams 3 & 4:** Sprint 3 Review
+**15** | ***11 May***<hr>**All Teams:**<br>Final Presentations<br>**8:00-10:30am** | ***13 May***<hr>**No Class**
 
 ## Copyright and License
 #### &copy; 2020 Karl R. Wurst and Stoney Jackson
