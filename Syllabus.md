@@ -1,4 +1,4 @@
-*Version 2021-Spring-0.1, Revised 12 December 2020*
+*Version 2021-Spring-0.2, Revised 12 December 2020*
 
 # DRAFT - This syllabus is subject to change until the first day of class on 2 February 2021.
 
@@ -523,25 +523,38 @@ It is my policy to securely dispose of student work one calendar year after grad
 ## Schedule
 *The following course schedule is subject to change.*
 
-Week | Tuesday | Thursday
-:-: | --- | ---
-**1** | ***2 February***<hr>**All Teams:** Introduction and Team Formation | ***4 February***<hr>**Teams 1 & 2:** Pre-Planning<hr>**Teams 3 & 4:** Observe Teams 1 & 2 planning
-**2** | ***9 February***<hr>**Teams 1 & 2:** Teams continue planning in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Pre-Planning | ***11 February***<hr>**Teams 1 & 2:** Sprint 1 Planning<hr>**Teams 3 & 4:** Teams continue planning in class<br>(Send observer to Teams 1 & 2 planning)
-**3** | ***16 February***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 1 Planning | ***18 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**4** | ***23 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 February***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**5** | ***2 March***<hr>**Teams 1 & 2:** Sprint 1 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews) | ***4 March***<hr>**Teams 1 & 2:** Sprint 1 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
-**6** | ***9 March***<hr>**Teams 1 & 2:** Sprint 2 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning) | ***11 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 1 Review
-**7** | ***16 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospectives)<hr>**Teams 3 & 4:** Sprint 1 Retrospective | ***18 March***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 2 Planning
-**8** | ***23 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***25 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**9** | ***30 March***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***1 April***<hr>**Teams 1 & 2:** Sprint 2 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews)
-**10** | ***6 April***<hr>**Teams 1 & 2:** Sprint 2 Retrospective<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 retrospective) | ***8 April***<hr>**Teams 1 & 2:** Sprint 3 Planning<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 planning)
-**11** | ***13 April***<hr>**Teams 1 & 2:** **Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 reviews)<hr>**Teams 3 & 4:** Sprint 2 Review | ***15 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 retrospective)<hr>**Teams 3 & 4:** Sprint 2 Retrospective
-**12** | ***20 April***<hr>**Teams 1 & 2:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 3 & 4 planning)<hr>**Teams 3 & 4:** Sprint 3 Planning | ***22 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**13** | ***27 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class | ***29 April***<hr>**All Teams:** Standup Meeting<br>Teams continue working in class
-**14** | ***4 May***<hr>**Teams 1 & 2:** Sprint 3 Review<hr>**Teams 3 & 4:** Standup Meeting<br>Teams continue working in class<br>(Send observer to Teams 1 & 2 reviews) | ***6 May***<hr>**Teams 1 & 2:** (Send observer to Teams 3 & 24 reviews)<hr>**Teams 3 & 4:** Sprint 3 Review
-**15** | ***11 May***<hr>**All Teams:**<br>Final Presentations<br>**8:00-10:30am** | ***13 May***<hr>**No Class**
+Date | Teams 1 & 2 | Teams 3 & 4
+--- | --- | ---
+Tuesday, 2 February | Introduction and Team Formation | Introduction and Team Formation
+Thursday, 4 February | Pre-Planning | Observe Teams 1 & 2 planning
+Tuesday, 9 February | Continue planning in class<br>(Send observer to Teams 3 & 4 planning) | Pre-Planning
+Thursday, 11 February | Sprint 1 Planning | Continue planning in class<br>(Send observer to Teams 1 & 2 planning)
+Tuesday, 16 February | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 planning) | Sprint 1 Planning
+Thursday, 18 February | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Tuesday, 23 February | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Thursday, 25 February | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Tuesday, 2 March | Sprint 1 Review | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+Thursday, 4 March | Sprint 1 Retrospective | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)
+Tuesday, 9 March | Sprint 2 Planning | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 planning)
+Thursday, 11 March | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 reviews) | Sprint 1 Review
+Tuesday, 16 March | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 retrospectives) | Sprint 1 Retrospective
+Thursday, 18 March | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 planning) | Sprint 2 Planning
+Tuesday, 23 March | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Thursday, 25 March | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Tuesday, 30 March | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Thursday, 1 April | Sprint 2 Review | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+Tuesday, 6 April | Sprint 2 Retrospective | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 retrospectives)|
+Thursday, 8 April | Sprint 3 Planning | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 planning)
+Tuesday, 13 April | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 reviews) | Sprint 2 Review
+Thursday, 15 April | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 retrospectives) | Sprint 2 Retrospective
+Tuesday, 20 April | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 3 & 4 planning) | Sprint 3 Planning
+Thursday, 22 April | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Tuesday, 27 April | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Thursday, 29 April | Standup Meeting<br>Continue working in class | Standup Meeting<br>Continue working in class
+Tuesday, 4 May | Sprint 3 Review | Standup Meeting<br>Continue working in class<br>(Send observer to Teams 1 & 2 reviews)
+Thursday, 6 May | (Send observer to Teams 3 & 24 reviews) | Sprint 3 Review
+Tuesday, 11 May<br>**8:00-10:30am** | Final Presentations | Final Presentations
 
-## Copyright and License
-#### &copy; 2020 Karl R. Wurst and Stoney Jackson
+&copy; 2020 Karl R. Wurst and Stoney Jackson
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA2019
